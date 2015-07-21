@@ -6,6 +6,7 @@ tags: [Social Tantra]
 <p class="Para_Indent">For the existence of human beings in society the following fundamental factors are necessary – unity, social security and peace. What is actually required under each of these fundamental factors is discussed below.</p>
 <a name="3..2"></a>
 <p class="Para_Indent">Unity among the members of any society or social structure is absolutely necessary, otherwise the structure will start disintegrating. Lack of unity among the members of society because of too much self-interest in the individual members, the formation of groups for economic or social advantage, and the lack of understanding of others’ acts not only bring about the downfall of society but also completely eradicate it from the face of the earth. Instances of so many groups and empires disappearing altogether are not rare in the little-known history of this world.</p>
+
 <a name="3..3"></a>
 <p class="Para_Indent">The problem, therefore, is the preservation of unity in society. If it is possible to enthuse the members of society with the following they will ensure unity in society – a common ideal, a caste-less society, collective social functions and no capital punishment.</p>
 <a name="3..4"></a>

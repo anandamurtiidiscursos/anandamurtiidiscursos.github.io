@@ -1,5 +1,5 @@
 ---
-title:  The Sahasrara Vortex 
+title: A Name to the Nameless partII ch.7  "The Sahasrara Vortex" 
 tags: [A Name to the Nameless]
 --- 
 In Tantra Maya there is only one vortex. It is what corresponds to the

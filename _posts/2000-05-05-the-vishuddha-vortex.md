@@ -1,5 +1,5 @@
 ---
-title: "The Vishuddha Vortex" from A Name to the Nameless
+title: A Name to the Nameless partII ch.5 "The Vishuddha Vortex" 
 tags: [A Name to the Nameles]
 --- 
 At humanity's present stage of evolution, it is very rare to find

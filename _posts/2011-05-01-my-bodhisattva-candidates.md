@@ -7,8 +7,9 @@ illumination and showering of elevated thought and feeling that is designed by d
 guide us onward and inward. Form helps us eventually understand the formless, the quiet I-Witness
 that is always now. Mystical vision is more than mere knowledge. Through it, knowledge is conveyed
 but in the most beautiful and meaningful manner. One could never throw such an experience away;
-each time it is recalled one gets the original message and merges into silent peace and joy. I think
-Tarkovsky was the most mystical “image poet” of modern times in that he really could convey deep
+each time it is recalled one gets the original message and merges into silent peace and joy. 
+
+I think Tarkovsky was the most mystical “image poet” of modern times in that he really could convey deep
 mystical ideas through cinematic form. When I see the last scenes of “Stalker” or “Solaris” I am
 deeply moved into an ecstatic reverie and marvel over the experience for hours, amazed that his genius
 could express something I always considered beyond expression. That is true poetry. However, even
@@ -17,6 +18,7 @@ ineffable. Great mystic artists give just a little bit of what they inwardly see
 pales in comparison to the truest, sincere vision of even the most humble mind. The kingdom of
 heaven is truly within and actively seeks prepared minds in its mysterious, inexhaustible variety of
 manifestations.
+
 The other day I woke up just before dawn, I sat up in bed and even before I began to do a little
 meditation, I felt a strange vibration on the right side of my head. Inwardly, I looked at it and felt it and
 saw so very clearly in my mind’s eye a very gentle and friendly human form. I recognized him. I
@@ -35,6 +37,7 @@ space, stimulating neurons of the incarnated so that we don’t forget love? Do 
 universal spirit, are you just a memory within the collective mind of humanity still bound to this dusty
 earth, or just an apparition of my idiosyncrasies trying to make sense of themselves?” The apparition
 remains silent.
+
 The form disappears and I feel that same gentle pulsation that was in the left side of my head move into
 the right side of the chest, into the Spiritual Heart. Through the Spiritual Heart, mind rises high into a
 very fine light that surrounds the planet, a subtle, diaphanous spiritual atmosphere, I look down upon
@@ -47,6 +50,7 @@ form out of the mountain rocks. They are rough, turgid and unrefined like Neande
 invisible force keeps loving them beyond time and form, purifying and refining them into something
 greater, beautiful and yet to be completed. An immense love looks down upon the planet and waits for
 all life forms to manifest and evolve spirit, slowly.
+
 So was Camus a symbol or a bodiless mind that came to me? It doesn’t matter. All phenomenal
 experiences of the mind, even the most spiritual visions, are at best maps and guides, friendly nudges
 from the universe to go here or there, or not to. The meaning of the vision is what is important. To feel
