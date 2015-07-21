@@ -7,8 +7,9 @@ Sahasrara Chakra in Indian Tantras. It is called Hunab Ku, and is considered
 the center of the creation. All of the other vortexes located along the spine
 are but worlds of vibration, of concentric circles that orbit the cosmic
 nucleus of Hunab Ku. All things come from this cosmic nucleus, just as all
-comes from the Shiva-Shakti godhead in Tantra. Sahasrara means a
-“thousand-petaled lotus.” There are 50 vrttis in the microcosmic mind. They
+comes from the Shiva-Shakti godhead in Tantra. 
+
+Sahasrara means a “thousand-petaled lotus.” There are 50 vrttis in the microcosmic mind. They
 can express themselves in 2 ways; internally and externally. These two
 movements are the 2 petals of the Ajina Vortex, which is really a part of the
 Sahasrara Vortex. This is another good reason to remember how all
@@ -29,6 +30,7 @@ the devas, or “gods” that regulate the entire cosmological order. So, the
 Tantra Maya concept of Hunab Ku seems to correspond with the Tantric
 notion of the Sahasrara Vortex being a vehicle for the Macrocosmic Mind of
 Brahma to govern the microcosmic mind.
+
 Like all vortexes, it is a construct in the chitta that has a
 correspondence with the physical body. The Ajina Vortex is related to the
 pituitary, “master gland.” The 2 petals of the Ajina control the pituitary

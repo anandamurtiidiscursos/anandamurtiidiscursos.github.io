@@ -9,7 +9,7 @@ relative mental, psychological projections about reality. The still, quiet, and
 introspective mind can be focused and tuned in to the greater universe.
 One learns to live in harmony with an inner peace and wisdom that
 connects the personal, microcosmic being with an inward, hidden order in
-the universe. The Tantric theories about creation, involution, and evolution
+the Macrocosm, the universe. The Tantric theories about creation, involution, and evolution
 are very deep and complex. I refer the serious metaphysical reader to Idea
 and Ideology of Anandamurti or the works of Sir John Woodruff for a more
 complete description of Tantric cosmology and metaphysics. This book is
@@ -20,8 +20,8 @@ is the transcendent First Father of our Consciousness and Shakti is the
 Great Mother Creator. They are inseparable in essence, like fire and its
 capacity to burn. Together they are Brahma, the Supreme Consciousness,
 or godhead, to use a concept from Western mysticism.
-Shiva and
-Shakti have separate names so that we can conceive of the distinction
+
+Shiva andShakti have separate names so that we can conceive of the distinction
 between essential being and the activity that results from this being. Shiva
 is infinite being, an infinite ocean of consciousness. Shakti, the creative
 energy, is the force that creates waves on the ocean. Shiva is absolute

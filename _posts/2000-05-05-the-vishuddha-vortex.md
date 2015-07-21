@@ -10,6 +10,7 @@ states of mind for these individuals such as "self-actualizing" or "well-
 adjusted" people. Although human society is still far from fully integrating
 the Anahata propensities, there are a few individuals within that society
 who have made this leap.
+
 The case of an individual assimilating the Vishuddha tendencies is
 even rarer. The literal translation of Vishuddha means "especially pure."
 Certainly, many people have a notion of the spiritual and saintly person,
@@ -24,6 +25,7 @@ the Vishuddha compensate for the limitations of an abstract self concept by
 replacing the notion of a separated identity with one that is deeply and
 intimately connected with the Shiva within and the entire manifested
 creation without.
+
 The Vishuddha Vortex is connected to the ethereal factor and the
 Causal Mind (Vijinanamaya Kosa). The Causal Mind, as you will recall from
 part 2, is the Causal Matrix of all creation. All creation is rooted and has its
@@ -41,11 +43,13 @@ linked to the Macrocosmic Mind. To understand how this is so, recall from
 part how the layers of the unit mind (kosas) during its evolution retrace
 their steps by participating in the pre-existing realms within the Cosmic
 Mind (lokas).
+
 Because the Vishuddha Vortex is connected to this Causal layer, we
 would expect to see cognitive thought patterns that parallel and correspond
 to the function of the Causal Mind. In addition, we would expect to see
 emotive tendencies that reflect this subtle unity by embracing the entire
-88creation.
+creation.
+
 Due to the very occult and esoteric nature of the first eight
 propensities of the Vishuddha Vortex, they will be discussed following the
 descriptions of the latter eight. It would indeed be difficult to explain these

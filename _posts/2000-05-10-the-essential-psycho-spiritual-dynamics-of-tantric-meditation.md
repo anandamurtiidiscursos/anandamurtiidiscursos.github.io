@@ -15,7 +15,9 @@ the mind that has a subjective identification with the contents of the
 objective chitta. For example, if the chitta has constantly experienced the
 impressions of life in the United States- the cultural norms and mores, the
 sense of national and cultural identity, a particular socio-economic class,
-etc. The subjective ego identifies itself with these impressions and feels
+etc. 
+
+The subjective ego identifies itself with these impressions and feels
 that itself, a subject, is associated with its external experiences. However,
 the ego is a midpoint between objectivity and pure subjectivity in that the
 ego does not in itself constitute the subjective identity. The Mahat is the
