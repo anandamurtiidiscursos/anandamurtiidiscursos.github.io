@@ -3,6 +3,10 @@ title:  Microvita and Tantra Maya ch.3 "Life, Evolution and Microvita"
 tags: Microvita
 ---
 
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Any sincere spiritual seeker is satisfied with nothing less than the Infinite itself. Our quest for knowledge is infinite. When we discover a secret or hidden cause, we discover a chain of other questions that lead to yet undiscovered causes. And the further our knowledge ascends toward the spiritual, the summit of all knowledge, the more subtle and finer are the causes and the levels of mind to perceive them. </span></span>
 
 <span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;"> There is really no end to the potential for the cultivation of our consciousness. The more pinnacled our perceptions the more we realize that our evolution has some goal or entelechy. Each new discovery in the form of pinnacled thought or heightned feeling seems to lead us toward something beyond itself until we reach a ground or foundation of knowledge; a Being that makes knowing possible. Each being or radiation out of this Infinite Consciousness bears its imprint, albeit in an objective and finite form. We see its imprint everywhere in created Nature and we hear its calling in the outer as well as the inner worlds. To the sensible and spiritually refined mind, all things speak of the infinite. </span></span>

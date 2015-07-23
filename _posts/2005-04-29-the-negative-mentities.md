@@ -3,6 +3,10 @@ title: Microvita and Tantra Maya ch.5 "The Negative Mentities"
 tags: Microvita
 --- 
 
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 The so-called “positive mentities” are entities that aid human beings with their psycho-spiritual development. Just as there are these entities that help us by promoting our positive tendencies, there are also entities that promote, provoke and exacerbate our baser tendencies. A working, practical definition of negative microvita would be the entities that function through the vrttis of the manipura and lower vortexs. The positive mentities affect the vrttis of the anahata and higher vortexs. </span></span>
  All mentities function through the medium of the vrttis. The negative mentities function in the same manner as the positive in that they too act as mental faculties for microcosms. They too are not entities separate from the microcosm. They are the causal forces that control the negative vrttis. Whereas the positive mentities act as a guiding function furthering psycho-spiritual evolution, the negative pirate the mind, directing it toward baseness. All mentities act as superpersonal forces that dictate the personal expressions of an individual mind.</span></span>
 

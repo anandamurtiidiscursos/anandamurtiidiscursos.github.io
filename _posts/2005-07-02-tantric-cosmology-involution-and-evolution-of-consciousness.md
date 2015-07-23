@@ -2,6 +2,11 @@
 title: Microvita and Tantra Maya ch.10 "Tantric Cosmology"
 tags: Microvita
 ---
+
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Metaphysics and psychology are unified in Tantra. Ultimately, the
 deepest studies of our inner nature merge with absolute reality beyond our
 relative mental, psychological projections about reality. The still, quiet, and

@@ -3,6 +3,10 @@ title:  Microvita and Tantra Maya ch.9 "Microvita and the Current State of Affai
 tags: Microvita
 --- 
 
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 The time in which we live today is certainly the most crucial time in the planet's history. There has certainly been great evil and distortion of dharma in the history of this planet. But never has it been so universal; effecting all of the planet and its inhabitants- plants, animals, and humans. Modern materialism has afforded human beings the dominion of nature and the enslavement of humanity. A global material culture has been created that makes it difficult to see the Spirit in things. The majority of human beings are wrapped up in their physical existence. The “privileged” are involved in pursuing their material comforts. The majority, on the other hand, are struggling to eat and obtain basic commodities. Where are the humans that still have a little humanity? Recall the Sanskrit word for human being, manusa- mind-preponderant being. I don't mean to say that the majority of humanity is completely bad, rather that the majority are so distracted and have very little dharmic alternatives for existence. On the other hand, I don't want the term “distracted” to lighten the gravity of the situation. When the mind moves toward matter it degenerates slowly but surely. With the majority of human beings thinking, feeling, and acting mainly in the material world there is a definite trend of degeneration. Instead of the mind moving in the flow of evolution, or pratisaincara. there is a negative evolution, or negative pratisaincara.
 
 <strong>The Zombie Apocalypse</strong>

@@ -2,6 +2,11 @@
 title: Microvita and Microvita ch.1 "The Ellipse and Hunab Ku"
 tags: Microvita
 ---
+
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Everything in this universe is in constant change.  The Vedas call the universe <i>jagat</i>, that which is in constant movement.  As the whole universe is in movement, nothing ever remains the same.  Perfection is a transcendent ideal not to be found in the physical, changing universe. Euclidean forms only exist in the realm of imagination, and not in the physical world.  Einstein has even shown that the path of a photon is not direct as its trajectory curves away from large, gravitational bodies like a star.  All things in this Macrocosm interact by pushing  and pulling on each other. 
 
 The Vedas also speak of how the universe is elliptical, like an egg.  The orbits of planets around celestial bodies as well as the orbits of moons around planets are all elliptical.  Gravity is a polar force.  There are both centripetal, or center-seeking forces, and centrifugal, peripheral-seeking forces.  Sometimes the centrifugal force is greater, and sometimes the centripetal force dominates.  In the case of celestial bodies orbiting a star, the centripetal force is greater when the radius of the orbit is closer to the star.  The centrifugal force dominates when the planet is at its greatest radial distance from the star.  The relative existence of anything in this creation is determined by the balance of centripetal and centrifugal forces.  If the centrifugal force is too great, then a celestial body may be released from its star or planet and flung into outer space by its centrifugal force unchecked and balanced by the centripetal, center-seeking force.  If the centripetal force is too great, then the celestial body will be absorbed into the greater body that it orbits.    All depends on the balance of these two opposing, yet complementary forces. 

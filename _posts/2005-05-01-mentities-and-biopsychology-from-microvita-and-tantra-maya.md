@@ -3,6 +3,10 @@ title: Microvita and Tantra Maya ch.7 "Mentities and Biopsychology"
 tags: Microvita
 ---
 
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Both positive and negative mentities are entities that function at the mental level but also provoke changes in the biopsychology of organisms. If we review the kosas and understand how grosser levels of mind are products of subtler ones, and that the physical body (mention annamaya kosa!!! Also the sounds of the vrttis) is the grossest level of mind then we can understand a little clearer the complex phenomenon of biopsychology. </span></span>
 
 <span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;"> The mentities always function from a level beyond the physical body. There are cruder types of microvita that function at the physical level, such as various viruses. However, the types of microvita discussed in this work are the microvita related to human psychology, mentities. The subtlest, positive mentity act from the higher kosas like the intuitive and causal levels at the anahata and Vishuddha Vortexs, respectively. The negative mentities may function at the manipura and lower vortexs. The vrttis that they stimulate create a mental vibration at the level of mind or vortex in which they are active. This mental vibration has a cascading effect upon all of the vortexs and levels of mind beneath that of the origin until it eventually arrives into physical expression in the annamaya kosa or physical body. In other words, each higher vortex is a causal agent for the ones beneath it.</span></span>

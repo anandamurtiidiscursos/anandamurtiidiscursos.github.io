@@ -2,6 +2,10 @@
 title: The Fundamental Negativity
 tags: [Spiritual Tantra]
 ---
+{% capture images %}
+	/images/cobra.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 According to our Headkick Headtrick Tantra, the kundalini is the fundamental creative force in the universe and not just a subtle force that functions in the physical microcosmic organism. Anandamurti termed the kundalini the “fundamental negativity.” It is “negative” in that it is the return force that can recover even the most furthest centrifugal force away from the cosmic nucleus. Kundalini, as it functions in the microcosm, doesn’t take one further away from the cosmic nucleus, rather it is the fundamental force that is capable of returning all of our mental creation to its origin. No matter how far our creation has materialized from spirit into matter, and no matter how far we have lost ourselves in illusion, desire, or ignorance, the Mother Shakti as kundalini will take us home. 
 
 Kundalini is the Shakti or energy of Shiva, the Supreme Consciousness. When she goes out from Shiva, there is creation, or involution. When she comes back there is evolution and eventually enlightenment.

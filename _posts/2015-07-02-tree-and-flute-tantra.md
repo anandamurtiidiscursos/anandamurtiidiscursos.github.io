@@ -2,7 +2,12 @@
 title: Neem Tree and Flute Tantra
 tags: [Spiritual Tantra]
 ---
-<em>"O yogi, sit in lotus under the sacred neem and together make impenetrable conscious force with nature. The death troopers will receive a great blessing from your practice. Infinite, white burning light penetrates and ignites their darkness. An immediate reaction shakes their world. Those who dealt so much terror may die in terror of Mother Kali, protector of the planet and of yogis. The next embryo they inhabit will finish its recapitulation with gills and fins. There they will “swim in idle waters and drink other fishes piss.”</em>
+
+{% capture images %}
+	/images/kiirtan.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
+<em>O yogi, sit in lotus under the sacred neem and together make impenetrable conscious force with nature. The death troopers will receive a great blessing from your practice. Infinite, white burning light penetrates and ignites their darkness. An immediate reaction shakes their world. Those who dealt so much terror may die in terror of Mother Kali, protector of the planet and of yogis. The next embryo they inhabit will finish its recapitulation with gills and fins. There they will “swim in idle waters and drink other fishes piss.</em>
 
 Not many people understood the context of these phrases when I published them with this photo last year. It was a very dark time and I remembered a very dark punk rock song from my youth about reincarnation and how Oedipus complex-ridden perverts are reborn as fish. I never thought anything useful would come out of those memories but I realized that they were quite insightful! The narco death soldiers had just returned to the valley. They had come and gone several times in the last few years. Their soldiers get killed off regularly and there were always new ones ready to come and inhabit their nearby camp. There they keep hostages and then kill them and throw their bodies in the mountains.  I welcomed them back with a solo of Gluck's “Dance of the Blessed Spirits” on my kena bamboo flute. I finished and they returned the message with gunfire. “Okay, now you all want some of my oboe too?”
 

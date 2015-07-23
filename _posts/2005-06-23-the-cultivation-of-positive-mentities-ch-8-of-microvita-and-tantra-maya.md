@@ -3,6 +3,10 @@ title: Microvita and Tantra Maya ch.8 "The Cultivation of Positive Mentities"
 tags: Microvita
 ---  
 
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 The cultivation of positive mentities is a topic very much related to proper biopsychological functioning. The human nervous, endocrine and glandular systems are the physical, corporeal vehicles for the subtle mind. They must all be in optimal health for the mind to be able to resonate with positive mentities and their corresponding mental layers and propensities. Any changes in the mental structure are reflected in the body and vice-versa. For proper psycho-physical parallelism the body must support the mind and the mind must support the body.
 
 The body and mind are a continuum on a spectrum of created energies ranging from the kamamaya kosa at the solid factor to the root of mind in the ajina chakra. Therefore, there is no real and definite distinction between body and mind. Body is but the crudest expression of mind. Any change in the structure and function of the mind entails a necessary change in the physical body, and vice-versa.

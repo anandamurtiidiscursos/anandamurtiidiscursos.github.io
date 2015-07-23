@@ -1,5 +1,5 @@
 ---
-title: Celibates and Sex
+title: Celibates and Sexuality
 tags: [Spiritual Tantra]
 ---
 I have had some requests to continue writing about my experiences with the yogis in India I met in my youth. By popular (and very much needed) demand I have been requested to speak more about the tips on channelising sexual energy as told to me by the yogi I mentioned in the essay "Form and Formlessness" last week.  I gladly concede to this because I believe that sexuality is one of the least understood subjects in human life.  It effects everyone, but few have found a tranquil solution to this knotty(no pun intended) subject.  

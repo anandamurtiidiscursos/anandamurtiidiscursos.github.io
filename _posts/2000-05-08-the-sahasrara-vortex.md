@@ -2,6 +2,11 @@
 title: A Name to the Nameless partII ch.7  "The Sahasrara Vortex" 
 tags: [A Name to the Nameless]
 --- 
+
+{% capture images %}
+	/images/name.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 In Tantra Maya there is only one vortex. It is what corresponds to the
 Sahasrara Chakra in Indian Tantras. It is called Hunab Ku, and is considered
 the center of the creation. All of the other vortexes located along the spine

@@ -2,6 +2,11 @@
 title: Microvita and Tantra Maya - Introduction
 tags: Microvita
 ---
+
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 This work was originally written as the final part of my first published work, A Name To The Nameless. I decided it was a little too divergent from the material of the main body of the work. I have therefore decided to publish it as a separate work. Included are some parts of A Name To The Nameless as an introduction to the current work about Microvita. The portions of A Name To The Nameless will help the reader to more easily understand the Microvita and Mentity treatise in part IV at the end of the book. Part IV can also be read independently. 
 
 I was first introduced to the concept of Microvita in 1993. Anandamurti had just left his physical body a few years before. People hoped that he would have been able to expound further on this new, revolutionary subject that he only began to speak about in the last few years of his life. However, he was able to establish a certain theoretical framework for very intuitive minds to study. This theoretical base helps orient the inquisitive intellect in the right direction. According to the great Tantric preceptors, like Anandamurti, there are subtle methods and theoretical models, or pratima, that are created by very intuitive minds with the design of helping the conceptual and creative minds of the students to delve into the secrets of the intuitive mind. 

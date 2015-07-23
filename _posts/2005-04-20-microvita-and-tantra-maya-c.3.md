@@ -2,6 +2,11 @@
 title: Microvita and Tantra Maya ch. 2 "The Spiritual Heart"
 tags: Microvita
 ---
+
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 We can begin to understand the reasons for the limitations the egocentric “I” notion that distorts the pure reflection of Hunab Ku in the human mind by examining the spiritual heart.  Within the spiritual heart or Anahata Vortex exist the roots of our divided and fragmented modern consciousness but also the qualities of compassion, understanding and unity with the true “I” within.  Pluma Blanca explained that all of the expressions of the so-called “vortexs” are balanced by the spiritual heart, what yogis call the Anahata Chakra.  I prefer to use “vortex” instead of “chakra.”  The traditional concept of the Anahata Vortex is a lotus with 12 petals.  Each “petal” is a vortex spiraling out of the greater vortex or “lotus,” like many small tornadoes that group together to form one giant vortex.  These petals or minor vortexes are known as vrttis- vortexes of mental energy.  These vrttis vibrate the entire mind and body and qualify them so as to express particular states of thought and emotion.  Vrttis are the fundamental intelligence behind our thoughts and feelings, the hidden programming of human cognitive and emotional life.  The Anahata Vortex is subtle like the higher vortexs with their finer, cognitive tendencies, but at the same time has grosser qualities like the lower vortexs that express more instintual and egocentric tendencies. 
  	
 In the Anahata there appear to be two hexagons. Really, there is one. They seem different because one moves clockwise or centrifugally, and the other moves counter-clockwise or centripetally. Here we can see the fundamental yin-yang or centrifugal-centripetal interplay of the universe at work within the human mind.  These are 12 points at which the balances and imbalances of the human consciousness may express themselves in a refined way. When there is perfect balance and there is no escape through any vortex or vrtti in the 12 vertices, Hunab Ku always enters the human mind through the spiritual heart with its neutral force of consciousness or citishakti.

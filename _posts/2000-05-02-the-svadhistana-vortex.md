@@ -3,6 +3,10 @@ title: A Name to the Nameless partII ch.2 "The Svadhistana Vortex"
 tags: [A Name to the Nameless]
 --- 
 
+{% capture images %}
+	/images/name.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Within the human genome is a record of all previous forms of life; from human to hominid to Gila monster.  All of ancestral life is within our little microcosmic existence, and recorded in our DNA. After so many life experiences as microbes, plant, reptile, and mammal the microcosmic mind eventually becomes conscious of itself.  Just as there is now a more developed cerebral cortex built upon the reptilian and mid-brains, the Aham-intelligence begins to evolve and replace the blind instincts of the Sensory Mind and chitta.   There are now thoughts and feelings and other qualities of internal, subjective mental awareness that begin to influence the biological organism.  Human consciousness is clearly, sensibly conscious and self-reflective as the subjective chamber of mind begins to have influence over the objective chamber.
 The human being occupies a unique though quite odd place in the spectrum of microcosmic evolution.  Plotinus said that humans exist somewhere between the level of the gods and the beasts.  No longer is the modern human being existing in an unconscious Eden, devoid of self consciousness, driven only by instinct, and completely fused with Nature, Shakti's creation.  Nor are we completely unified in the transcendental Shiva Consciousness, utilizing the full extent of our intellectual-intuitive capacity and liberated from instinct and blind attachments.  Rather, we are an odd admixture and alloy of animal and god, of instinct and reason.  Our evolution is incomplete;  our spiritual resplendence is only beginning to dawn from unconscious obscurity.
 

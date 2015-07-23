@@ -1,7 +1,12 @@
 ---
 title: A Name to the Nameless partII ch.5 "The Vishuddha Vortex" 
-tags: [A Name to the Nameles]
+tags: [A Name to the Nameless]
 --- 
+
+{% capture images %}
+	/images/name.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 At humanity's present stage of evolution, it is very rare to find
 individuals, much less societies, functioning at the level of the Vishuddha
 Vortex. In fact, it is rare to find individuals that have assimilated the

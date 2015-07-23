@@ -3,6 +3,10 @@ title:  A Name to the Nameless part3 "The Essential Psycho-Spiritual Dynamics of
 tags: [A Name to the Nameless]
 ---
 
+{% capture images %}
+	/images/name.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 ### Part III:  Sadhana- Spiritual Practice
 Parts one and two gave a theoretical outline of the functioning of the human mind and its evolutionary status in relation to the cosmos.  Its general structure, laws and dynamics were discussed in a theoretical manner.  This section will deal with the practical approach to understanding the spiritual evolution of mind and personality.  Rather than further explaining the theoretical structure of mind, this section will focus on the spiritual disciplines that facilitate the development of mind.  In fact, Tantric meditation, as Anandamurti has stated, is 99% practice and 1% theory.  The study of theoretical metaphysics and psychology in Tantra is but a preparation for the intuitive practice of Tantra.  However, when seen as a preparatory tool to foster intuitive practice, theoretical study in fact becomes a practical exercise for the development of mind rather than mere abstract musing.  The purpose of the pursuit of knowledge is to directly experience spiritual realities, rather than merely philosophizing about them.  Tantra is therefore a “mystical empiricism”.
 Rajadhiraja Yoga is traditional 8-fold yoga with Tantric techniques.  Tantra Maya is Rajadhiraja Yoga with Tantra Maya techniques.  The classic 8-Fold Yoga, or Astaunga Yoga, are 8 steps in the practice of sadhana.  They gradually direct the physical energy of the body into the intelligence of the mind.  This mental dynamism is further transformed into spiritual cognition, or refined spiritual awareness.  The lower of the 8 steps deal more with the lower kosas while the higher steps work with the higher kosas.  

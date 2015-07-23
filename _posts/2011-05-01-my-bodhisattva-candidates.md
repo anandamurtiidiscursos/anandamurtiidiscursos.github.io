@@ -2,6 +2,11 @@
 title: My Bodhisattva Candidates 
 tags: [Spiritual Tantra]
 ---
+
+{% capture images %}
+	/images/camus.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Spiritual vision through the medium of mental forms is truly a form of divine grace. It is a certain
 illumination and showering of elevated thought and feeling that is designed by deep Intelligence to
 guide us onward and inward. Form helps us eventually understand the formless, the quiet I-Witness
