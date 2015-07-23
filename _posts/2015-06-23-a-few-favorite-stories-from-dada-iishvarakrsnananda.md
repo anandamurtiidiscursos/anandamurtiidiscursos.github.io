@@ -3,11 +3,16 @@ title: A FEW FAVORITE STORIES FROM DADA IISHVARAKRSNANANDA
 tags: [Spiritual Tantra]
 ---
 
+{% capture images %}
+	/images/dadaik.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
+Dada Iishvarakrsnananda or "Dada I.K." was my meditation and yoga teacher when I was in Ananda Marga. He was the most humane and friendly person I have ever known. I continue to admire his moral courage and feel that his sincerity, discernment, and pure intentions are a great inspiration for many. 
 
+This is a story he wrote the other day. Its setting is in an intense political atmosphere in India after Anandamurti had refused to stop speaking about PROUT, a decentralized economic theory that he propounded. The communists in the West Bengal state government are attacking Anandamurti and killing his followers while at the same time the Federal, pro-capitalist government is also trying to ban his social activity. PROUT was too transcendental for both the commie state and the Federal pro-capitalist governments and Anandamurti was getting flack from both the Right as well as the Left. Anandamurti's institution, Ananda Marga Pracaraka Samgha, was later infiltrated by the CBI (which is like the CIA, only Indian). Many of his closest disciples betrayed him while others, like my friend Iishvarakrsnananda, went to jail in his teenage years for refusing to renounce these ideas even though he would have been given a presidential pardon and release for doing so. Many of his friends were brutally tortured and he himself almost died in jail but never renounced his principles. I have never known men with such clarity of purpose as I have known in Dada I.K.
 
-Dada Iishvarakrsnananda or "Dada I.K." was my meditation and yoga teacher when I was in Ananda Marga. He was the most humane and friendly person I have ever known. I continue to admire his moral courage and feel that his sincerity, discernment, and pure intentions are a great inspiration for many. This is a story he wrote the other day. Its setting is in an intense political atmosphere in India after Anandamurti had refused to stop speaking about PROUT, a decentralized economic theory that he propounded. The communists in the West Bengal state government are attacking Anandamurti and killing his followers while at the same time the Federal, pro-capitalist government is also trying to ban his social activity. PROUT was too transcendental for both the commie state and the Federal pro-capitalist governments and Anandamurti was getting flack from both the Right as well as the Left. Anandamurti's institution, Ananda Marga Pracaraka Samgha, was later infiltrated by the CBI (which is like the CIA, only Indian). Many of his closest disciples betrayed him while others, like my friend Iishvarakrsnananda, went to jail in his teenage years for refusing to renounce these ideas even though he would have been given a presidential pardon and release for doing so. Many of his friends were brutally tortured and he himself almost died in jail but never renounced his principles. I have never known men with such clarity of purpose as I have known in Dada I.K.
+### "I Still Love Them".  -Acarya Iishvarakrsnanada Avadhuta
 
-### I STILL LOVE THEM.  -Acarya Iishvarakrsnanada Avadhuta
 Once Baba asked me if I had any questions. I had a question in my mind that had haunted me for around 15 years or more. But I was always afraid to talk to Baba. Either I forget that question or I was too afraid to talk whenever I met Baba personally. The question was not very good. But that day Baba was in very very happy mood and told me that I can ask any question to Him. I got some courage to ask the question. The question has made me very angry and upset. For some time I would jump out of the bed due to anger and hatred towards some sanyasi dadas who went against Baba and put Him in Jail. Sometimes my blood was boiling with anger.
 
 I told Baba: "I went to Jail before you went to jail." At the time I was taking care Baba's quarter in 1971 in Ranchi. I was LFT (Local Full-time Worker) at that time. I was also Baba's body guard. When Baba left for Patna after Ananda purnima Dharma maha chakra I was travelling with Baba to Patna by security jeep. However, in last minute I was asked to take care of Baba's quarters in Ranchi along with a few other volunteers. So I came down from the Jeep . It was very painful for me to be separated from Baba. After a month of the departure of Baba the police arrested 33 Margis (members of Ananda Marga), LFTs and WTs (Whole Time workers), all on false charges. Madhvananda and 14 other sanyasi dadas were with us during the arrest.
@@ -17,7 +22,7 @@ My Question to Baba continued, "did the CBI did not know about you as Dharma gur
 All of my anger, hatred, and frustration was gone since that day. Baba used to say that Paramapurusa (Supreme Consciousness) cannot hate anyone. He repeated this several times in his talks: "Oh human being! what right do we have to hate anyone when almighty Taraka Brahma does not hate any one?"
 Baba used to say that "you may like or dislike someone. But do not hate anyone." Baba was Parama Purusha, Taraka Brahma, and Satguru. Baba was a symbol of love. Baba is a symbol of love. Baba will be a symbol of love. Baba came here to flood the earth with love. Let all of His children work for spreading love. Love will unite us.
 
-&nbsp;
+
 
 ### THE POWER OF MANTRA AND THE POWER OF GURU  Dada Iishvarakrsnananda
 
@@ -30,9 +35,10 @@ In the Ananda Marga meditation system, the Guru teaches meditation and the acary
 After few days of sincere practice of Sadhana as per instruction of his Acarya, he went to eat his meat. Afterward, he kept vomitiing and vomiting. The same thing happened with his desire for whisky. When he went to drink whisky he broke the bottle with his bare hands out of repulsion for the whisky.
 He gave up eating meat and drinking whisky. He told me that when he went to court, he would always drink whisky before making arguments in the court.. Such was situation of Acarya Sakal Deva Dada before becoming a margii.. Acarya Sakaldeva Dada took the shelter of Varabahaya (the blessing of fearlessness from the guru) and all fear went away.
 
-&nbsp;
 
-<b>Spiritual Journey and Struggle: Part 3 </b> -Dada Iishvarakrsnananda
+
+### Spiritual Journey and Struggle: Part 3  -Dada Iishvarakrsnananda
+
 We were a half dozen people in the training center. I was youngest of the trainees. We learned some basic philosophy, worker’s rules, etc. After the training we had to do SPT (Sadhana Piitha Training). We got a piece of cloth to wrap around us but no slippers, no shirt, no shoes.
 We had to keep silence( Maona Brata) .We were not allowed to keep any money or any kind of possession. We were instructed to go to beg door to door in the morning and come back before noon. It was very hard thing for me; but I had no choice.
 
@@ -61,11 +67,10 @@ The unknown person who had appeared told me: “run away from here!,” but I ha
 It was almost dark when I reached my place. Dada Shyamananada was moving back and forth in front of Baba's gate. When he saw me he became very angry. He was very upset. He told me that Baba have not taken food and water since the morning. He has told them if his son does not come He will not eat and drink. I told Dada to go and tell Baba that I am back and that I will narrate the whole story.
 He went to tell the news to Baba. After a few minutes Dada came back and told that the food and water which was for Baba has to be given to me. “That is instruction of Baba, there will be no prasad today,” Dada told me.I had wonderful meal. I once told this story to Baba when Baba had asked me how many times he has directly or indirectly helped me. This story was written during Baba’s life in Hindi and later translated into English.
 
-&nbsp;
 
-&nbsp;
 
-<b>I GAVE THAT POWER ONLY TO YOU </b>narrated by Dada Iishvarakrsnananda
+### I GAVE THAT POWER ONLY TO YOU narrated by Dada Iishvarakrsnananda
+
 I had written in a previous story that Baba had given power to Dada Dasaratha to screen people to have personal contact. Dada Dasaratha used to see the mental color of people and accordingly he used to either reject or send the people for personal contact. Once a very important person came to Jamalpur to have Personal contact.. He was sent to Dada Dasaratha for screening. Dada Dasratha entered his mind and saw the person was unfit for personal contact and so he rejected the person for personal contact. However, some top official of Ananda Marga started to put pressure on Dada Dasaratha to approve the person who was very, very important. Dada was in a dilemma. On one e side were top officials of Marga and othere side was Baba's instruction. Finally, Dada Dasaratha went to see Baba. He told the whole incident. Baba was furious., He told Dada Dasaratha that I gave that power to you only to decide. Nobody else. Do not have to listen to any one. In the end Mr. very, very important person did not get personal contact at that time. Baba was a great master that he did not differentiate between so called important people in society and an ordinary person. His rule was the same for everyone. That was his greatness. Glory to Lord Shrii Ananda Murti Jii.Param pita baba ki Jay.
 
 ### I WAS NOT ABLE TO FIND SOMEONE TO PLAY THIS DIFFICULT ROLE” 
@@ -86,5 +91,6 @@ When I went in to his room Baba was in Kalyan Sundram Mudra . He said to approac
 Most importantly Baba did not objected when I sang the other song in place of Prabhat samgiita. It was very important for me to see Baba in the Kalyan Sundram Mudra.
 
 ### THE GURU’S ORDER MUST BE FOLLOWED 
+
 On March 5th,1967 five Dadas were murdered in Ananda Nagar by a communist inspired mob. Baba made a committee of five members to meet Jyoti Bashu who was then home minister of West Bengal. It was a united front government ruled by Bangla Congress, a breakaway group of the national Congress Party and the Marxist Communist Party. Our five members were sent to meet the home minister, including Acarya Lalan who was the first principal of our Ananda Nagar Degree College. When they went to meet Jyoti Basu, the home minister, they were not allowed to meet him and reported back to Baba. Baba asked a question to them. “Did all committee members go to see Jyoti Basu?” The committee members replied, “we all went except Acarya Sakaldeva.” Baba was a bit upset. He said we must take Acarya Sakaldevaji with you. They all again went to see Jyoti Basu to submit the memorandum. As per instruction of Baba All went to see Jyoti Basu.They were allowed to meet him this time. They had earlier violated the instruction of Guru by not bringing Acarya Sakaldeva and that is why they were not allowed to see Jyoti Basu.
 The reason for removing Acarya Sakaladevaji from group to see Jyoti Basu was due to some kind of complex in the mind of the committee members. Acarya Sakaldev Dev Dada had very simple dress. He was very simple looking person, although by profession he was a lawyer. He was a family Acaraya (Grihi Acarya). All others were well-dressed. Acaray Sakala Deva is no longer on this earth. He was the acarya of Acarya Svarupananda Avadhuat, Acarya Sujiit Kumarji, and Acarya Nirmohananda Avadhuta, among others. He remained in Ananda Marga and kept working for the Legal Department until his death. He was a saintly and very sweet-natured person. He was great devotees of Baba. He spent some time with me in Delhi Baba's quarter when I broke my leg in 1999. I also spent time in south ex Delhi Jagrti. when ever I went to India. I always had wonderful Satsanga with him. He is grand father of Prasenjitji who is working with a university in the UK.
