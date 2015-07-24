@@ -1,6 +1,6 @@
 ---
 title: The Spiritual Heart
-tags: The Spiritua Heart
+tags: [The Spiritua Heart]
 ---
 
 {% capture images %}
