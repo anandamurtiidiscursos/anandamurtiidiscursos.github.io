@@ -1,5 +1,12 @@
-### The Spiritual Heart
+---
+title: The Spiritual Heart
+tags: The Spiritua Heart
+---
 
+{% capture images %}
+	/images/hunabku.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 We can begin to understand the reasons for the limitations the egocentric
 “I” notion that distorts the pure reflection of Hunab Ku in the human mind
 by examining the spiritual heart. Within the spiritual heart or Anahata
@@ -7,7 +14,9 @@ Vortex exist the roots of our divided and fragmented modern consciousness
 but also the qualities of compassion, understanding and unity with the true
 “I” within. Pluma Blanca explained that all of the expressions of the so-
 called “vortexs” are balanced by the spiritual heart, what yogis call the
-Anahata Chakra. I prefer to use “vortex” instead of “chakra.” The
+Anahata Chakra. 
+
+I prefer to use “vortex” instead of “chakra.” The
 traditional concept of the Anahata Vortex is a lotus with 12 petals. Each
 “petal” is a vortex spiraling out of the greater vortex or “lotus,” like many
 small tornadoes that group together to form one giant vortex. These petals
@@ -19,6 +28,7 @@ human cognitive and emotional life. The Anahata Vortex is subtle like the
 higher vortexes with their finer, cognitive tendencies, but at the same time
 has grosser qualities like the lower vortexes that express more instinctual and
 egocentric tendencies.
+
 In the Anahata there appear to be two hexagons. Really, there is one.
 They seem different because one moves clockwise or centrifugally, and the
 other moves counter-clockwise or centripetally. Here we can see the
@@ -29,6 +39,7 @@ refined way. When there is perfect balance and there is no escape through
 any vortex or vrtti in the 12 vertices, Hunab Ku always enters the human
 mind through the spiritual heart with its neutral force of consciousness or
 citishakti.
+
 The right side of this plexus is solar or centrifugal. The left side of this
 plexus is lunar or centripetal. The centrifugal force under the control of the
 witnessing entity of Shiva becomes the Son, the primordial creative
@@ -36,6 +47,7 @@ expression of the Supreme Consciousness within the human and personal
 medium. It is for this reason that the Vedantic sages meditated on the right
 side of the spiritual heart, the nexus of where the super-personal Atman
 “touches” the personal and human.
+
 The left side is the Mother of God, the centripetal shakti that always
 brings the expressions of the Son back to the neutral force of
 consciousness. The centripetal force never lets the centrifugal force
@@ -48,7 +60,9 @@ discernment and faith (positive vrttis), then the process of the unification of
 the microcosmic consciousness into the Macrocosmic Consciousness of
 Shiva is well under way. It is here in the spiritual heart of Anahata that the
 nameless godhead may evolve a name for itself, for us, within each of us.
-The Dynamics of “Ka” and “Kha” through Hope and Worry
+
+### The Dynamics of “Ka” and “Kha” through Hope and Worry
+
 The vrttis or vortexes of the microcosmic mind are subtle sounds that
 result from the tension of internal and external mental movements. They
 are evolutionary efforts to guide and direct the microcosm in its march
@@ -63,6 +77,7 @@ the manifestation of more tangible tendencies of the microcosmic mind.
 This is the reason that in tantric meditation much importance is given to
 the use of mantras which are intelligently organized from these
 fundamental sounds.
+
 The sound “ka” is the first sound at the 12 petaled lotus of Anahata
 Vortex. “Ka" is the first consonant to break out of the causal sound matrix,
 or logos, of Brahma. With this sound vibrates the great idea of hope, that
@@ -79,6 +94,7 @@ is the second vrtti of the Anahata Vortex and will always counterbalance
 hope until hope is honed into a pure and unwavering Self-confidence.
 Together, these two vrttis represent the fundamental duality of modern
 human consciousness. Hope is “ka”, and worry is “kha”.
+
 The fundamental lunar, centripetal, and introverted sound of “ha”
 descends to ka, thus making “kha”. The lost mental movement that has
 dissipated into false hopes is brought back to center with the addition of
@@ -91,7 +107,9 @@ manifested effect. The following vrttis that continue to unfold reflect this
 dual movement of an externally-moving consonant paired with the
 internally-moving “ha” to balance that consonant’s movement when it
 weakens.
+
 Hope
+
 The function of the microcosmic mind is always the medium between
 the inner identity and its outer world, be it a physical, mental, or spiritual
 worlds. The Manipura (3rd vortex at the navel), with its craving and blind
@@ -105,6 +123,7 @@ belief and faith to bring wish into reality. So the medium of the activity of
 this vrtti (as well as others in the Anahata) is neither through the sensory
 and motor organs nor the imposition of will, but through the eminence of
 intuitive thought.
+
 Of course people often hope for selfish and trivial things due to the pull
 of the Manipura vrttis on the Anahata, but the propensity of hope
 potentially has the sublime function of giving one an inner sense of
@@ -116,6 +135,7 @@ can apprehend the subtle, cosmic intentions that are being thought into
 being by the Cosmic Mind. An inner sense of certainty ensues from this
 along with the belief that goodness will somehow come to fruition, despite
 the limitations of the personal will to force it into being.
+
 The power of faith or hope is one of the most profound capacities of the
 human mind. The reason that faith has been so highly regarded as a great
 virtue by all of the so-called higher religions is that it places the power of
@@ -125,7 +145,9 @@ and gives one even greater faith in the benevolence of the cosmic moral
 order. This inner, intuitive certainty further inspires one to transcend the
 turmoil and incessant anxiety of a self separated from Brahma, the
 Supreme Self.
+
 Worry
+
 While hope gives one the secure conviction that their own welfare is
 dear to Brahma and thereby relieves the perpetual burden of a fearful,
 limited self having to pine and struggle to assert its identity by coercing
@@ -152,6 +174,7 @@ misplaced situation of a mind capable of deep and abstract thought but
 only using those deep and idealistic thought processes to think about the
 difficulties of a situation while the activity used to solve the issue come
 from a lower, previous levels of awareness.
+
 This paradigm is exactly the issue plaguing the present level of human
 evolution. The upper end of the bell-curve of human consciousness is in-
 between the stages of the Manipura and the Anahata levels of
@@ -171,7 +194,9 @@ psychologically and spiritually or whether this greater development of
 consciousness and intelligence simply becomes a tool to exacerbate,
 exploit and perpetuate the impulsive vrttis (craving, blind attachment,
 sadism, etc.) of the Manipura.
-The Dynamics of “Ga” and “Gha” through Expansion and Love
+
+### The Dynamics of “Ga” and “Gha” through Expansion and Love
+
 The spiritual heart is the Anahata Vortex. Anahata means “not holding.”
 It is the intuitive level of mind that begins to understand that there is an
 infinite vastness and dignity inside itself and can begin to let go of blind
@@ -188,6 +213,7 @@ Causal Mind, the logos of Brahma. One day the human genius will be able
 to map and even quantify these fine vibrations that make up the so-called
 “quantum void.” Then, human beings will begin to understand the secrets
 of the dimensions between mind and matter.
+
 Until this placation of the spiritual heart, the vrttis of the Anahata will
 continue to guide and develop our awareness toward this understanding.
 These fine sounds of the vrttis will vibrate the mind and attempt to
@@ -196,6 +222,7 @@ higher functions. The 3rd and 4th vortexes of the Anahata Vortex are
 controlled by the sounds “ga” and “gha.” “Ga” manifests a tendency
 towards self-expansion and development of latent qualities, and “gha”
 manifests a tendency toward deep, human affection, or love.
+
 Before the manifestation of the vrtti of expansion, the mind’s
 “endeavor” is really expansion of the ego based on conquests of physical
 space and material or acquisitions psychic meaning for the separate,
@@ -205,6 +232,7 @@ compensate for its isolation and fear. One tries to fit into the social and
 economic systems with ready-made patterns. These patterns most often do
 not harmonize with the cosmological order and we suffer reactions
 accordingly.
+
 With the vrtti of endeavor at the Anahata the latent qualities of the
 Macrocosmic Mind, the repository of infinite, omniscient knowledge, can
 begin to manifest themselves. New qualities, interests and subtle desires
@@ -216,6 +244,7 @@ books, or practices that opened up your inner spiritual life? At the intuitive
 level of mind we begin to realize that there is an inner vastness that is
 really living our lives and really knows how to do it. One only has to
 convince the separate ego to go along with this flow.
+
 “Gha”, the vibration that regulates affection, is the counter-balance of
 endeavor, or “ga.” Knowledge via expansion of the mind is useful to solve
 existential problems and it is imperative that this knowledge be developed
@@ -238,7 +267,9 @@ close to the Atman that there remain few, if any, personal needs and one
 only loves without any expectation or desire of reciprocation. When
 Anahata is purified it becomes a direct conduit for the Causal Mind of
 Vishuddha.
+
 Endeavor
+
 Endeavor is the effort to unfold enfolded or dormant qualities of the
 personality. We see that with the Anahata that there is the ability to think
 in a very deep and meaningful way. With this sublime ability the mind can
@@ -263,6 +294,7 @@ feeling” and intuition one can look down upon the fray and ask "who is it
 that sees all of this?" There is a calm, quiescent eye in the storm of the
 self and one begins to desire what it is and how to attain it. Endeavor is
 quite simply the desire for the understanding of Tao, of dharma.
+
 However, this movement is endeavor to realize and not realization itself.
 The ego here assumes the qualities and identity necessary to live in
 accordance with a deeper understanding and experience of existence. It is
@@ -274,6 +306,7 @@ to understand, accept, and integrate the lower propensities into a more
 refined self-concept. Such qualities are an acute awareness, non-judgment
 of self and others, acceptance, compassion, moral conscience and an
 adamant resolve to bring these qualities into expression.
+
 While discussing this growth of self it is necessary to mention the 3 laws
 that regulate the unfolding of higher propensities to incorporate and
 compensate for the lower. These laws are recapitulation, transmutation,
@@ -314,6 +347,7 @@ dealt with more when discussing the vrttis of vanity, selfishness, duplicity,
 and argumentativeness as these tendencies reveal an incomplete
 integration of lower vrttis into the self-reflective, intuitive, and
 magnanimous potentialities of the Anahata.
+
 This dissociation of the newly emerging tendencies from the old,
 ingrained behavior patterns produces what classical psychology has termed
 the shadow. The shadow doesn’t reside in one particular kosa, in other
@@ -331,7 +365,9 @@ insecurity and lack of confidence. In a similar manner, if the jump to the
 Anahata from Manipura is not complete, as in our previous example, then
 the vrttis or cluster of vrttis that constituted the former personality at the
 Manipura become the shadow.
+
 Affection
+
 The affection of one sentient being for another as expressed through
 this tendency at the Anahata is not one of an intense desire to consume
 and possess another solely to gratify one's own appetites. The quality of
@@ -346,6 +382,7 @@ inner qualities of another are loved by means of the deeper qualities of the
 one who loves. In this dialogue the one who is loved is regarded for who
 they really are on the inside and the lover exercises and discovers more of
 his/her deeply human affective capacities.
+
 Human love, whether intimate and romantic, familial, or brotherly has
 such a tremendous hold over us that it both liberates our hearts from self-
 enclosure while at the same time holds us only to those that we personally
@@ -358,6 +395,7 @@ meaning that it gives us and the demand to keep receiving it over the true
 needs of others. In the words of William Blake, “Love seeketh not itself to
 please, nor for itself hath any care. It gladly gives itself with ease and
 creates a heaven in hell's despair.”
+
 Many love only to receive love and recognition from others without
 giving much themselves. Only when affection reaches a functional synergy
 or symbiosis where both the lover and the loved interchange roles freely,
@@ -367,6 +405,7 @@ intimation, an emerging expression of divine love. Love is the only seed of
 spirituality. One who is loved feels worthy and whole, regarded and
 respected. The one who loves sees the power of transformation upon
 another by and from their own emotive forces within.
+
 Once the person feels love-worthy by others a noble confidence and self-
 respect, or respectful Self awareness is gained that permits one to love
 freely, without fear, selfish demands and an imposing personal need. And
@@ -387,7 +426,9 @@ expression at the Vishuddha. Here affection as artha (personal meaning) is
 fully transformed into dharma (universal and essential meaning). In the
 end there is but one Friend, in many colors and in many places, who moves
 through infinite love behind all our faces.
-Vanity
+
+### Vanity and "na"
+
 The order of the vortexes or vrttis of the microcosmic mind moves
 from the subtle to the gross, or internal toward the external. The order of
 the Sanskrit alphabet moves from the deeper vowels in the throat toward
@@ -401,6 +442,7 @@ Pulsation is the mark of time, the “mental measurement of the motivity of
 action.” This is a very interesting example of how the internal, intuitive
 macrocosmic order is mimicked and repeated in the physical body of the
 microcosm.
+
 These sound vortexes or matrices or “strings” are adaptations for the
 mind to act according to various layers of density. They vibrate on certain
 elemental planes whose end expression is always the manipulation of
@@ -416,6 +458,7 @@ the body chemistry in such a way that the mind and body are placid and
 calm and capable of conceiving and feeling the workings of heaven, the
 subtle planes of existence. This allows that the mind metamorphoses itself
 finally into the original substance of Consciousness.
+
 The Anahata Vortex is a balance of these inner and outer tendencies.
 Half are “positive” and half are “negative”, or pro-spiritual and pro-
 material. The negative tendencies lock the mind and body into egocentric
@@ -440,6 +483,7 @@ sounds are more like generalized states or attitudes of the ego. The other
 “na” sounds are also purely egocentric states of being like hypocrisy,
 jealousy, and ambition, which correspond to the palatal, cerebral and
 dental “na” sounds.
+
 The repetitions of 4 consonants follwed by “na” continue throughout the
 Anahata Vortex and down into the manipura (3rd vortex). This creates a
 pattern of 1-2-3-4-”n”eutral-1234-”n”eutral...and so on. The rhythm
@@ -450,7 +494,7 @@ vrttis vibrating at certain tones with certain rhythmic patterns give scope
 for deep speculation and investigation into the fundamental “music” of the
 universe and how perhaps our human aesthetics may mirror this
 fundamental, harmonious order.
-VANITY
+
 It is now clear that the mind and personality affected by the propensities
 of the Anahata Vortex are deeply self-conscious, ideational tendencies that
 lead the person to a more abstract but congruent self-concept. The self-
@@ -460,6 +504,7 @@ personality is abstracted from these levels and its focus is more mental and
 ideational. The personality is informed by the deep and abstracted
 thoughts of “who am I essentially, unconditioned by my environment?”, or
 “what do I truly feel.”
+
 Vanity represents the self-centered triumph of the individual over the
 outward pull of the social environment. The social environment demands
 conformity and a submission of the self to the collective. The process of
@@ -475,6 +520,7 @@ incomplete and partial process of individuation. Vanity looks back on its
 growth and achievements out the entropic pull of conformity, insecurity,
 shame and weakness with a sense of self-satisfaction and proud
 accomplishment.
+
 Instead of finding its grounding in pure Spirit or in its dynamic
 relationship to Spirit, the ego secures a niche for itself in its own qualities,
 abilities, achievements, and self-referential words and symbols. In other
@@ -490,6 +536,7 @@ objective qualities and proud accomplishments as its subjectivity, as its
 fundamental identity. It is more than the confusion of the subject with the
 object however, as the sense of doership (ego or Aham) is alienated and
 encapsulated from the rest of the mental being.
+
 Here the ego doesn't recognize its full mental, psychological makeup
 and gives no regard to the subtle evolutionary forces trying to express and
 manifest themselves through the individual. The individual instead sees its
@@ -529,7 +576,9 @@ between; realizing that we have a transcendent identity separated from
 world and body but are still contradictorily associating this abstract notion
 of “I” with the objective qualities of world and body, and are therefore
 bound to the imaginary notions of "me and mine."
-The Dynamic of “Ca” and “Cha” in Discernment and Depression
+
+### The Dynamic of “Ca” and “Cha” in Discernment and Depression
+
 In the phase of involution, Shiva, the infinite consciousness, has been
 transformed by his immortal consort Shakti, the divine creative energy, into
 all that is in this universe. It is Shiva itself that has become “star stuff.”
@@ -557,6 +606,7 @@ your little “I", the ego, into the great “I-Witness." Therefore, only
 surrendering to the infinite Atman will bring an end to psorax’s dominion.
 Only the entity who stands beyond good and evil can liberate one from
 good and evil.
+
 While incarnated in human form and passing through the soul-building
 experiences of this world we must know and cultivate the positive
 propensities of mind that help us to expand and adapt to this relative world
@@ -565,6 +615,7 @@ between the relative and the absolute, between finite and infinite. The
 world isn’t inherently corrupt, we just haven’t properly learned how to
 handle ourselves. We haven’t learned to economize the infinite nature of
 desire.
+
 Discernment is the sixth propensity of the Anahata Vortex. It is
 administrated by the sound “ca." Discernment is conscience, the force of
 Consciousness over the mind. Mind harmonizes with the sublime,
@@ -583,6 +634,7 @@ through maya. With the development of discernment, temptations may
 come more to test you, but finally help to establish one in a deeper
 understanding in which renunciation truly becomes sweet and not
 something forced and manipulated.
+
 Not understanding this essential truth of existence always brings
 emptiness, existential ennui. This is the 7th vrtti of the Anahata Vortex,
 psychic depression, controlled by the sound “cha.” “Ha” must descend to
@@ -597,7 +649,9 @@ inflated vain image that traps us in this maya. If there is a place for an
 image in this eternal mind storm of vrttis, then I imagine that is should be
 as light, honest and transparent as possible. The dark schemes of the
 unconscious ego can’t hide too well in this discerning light.
+
 Discernment
+
 As previously mentioned the Anahata level of mind is the fulcrum on
 which rests the directional flow of mind. If the Svadhistana and Manipura
 propensities qualify the Anahata propensities one may get an intellectually
@@ -618,6 +672,7 @@ self-centeredness and psychological stagnancy. With conscience the mind
 can understand its potential for self-centeredness while at the same time be
 in touch with the intuitive ideas that guide the mind out of its limitations
 and towards spiritual realization.
+
 Discernment, the ability to know what is good and just, is a propensity
 that is rooted in the Intuitive Mind. Having a deep, intuitive ability to
 understand and peer into the nature of the self and the world enables one
@@ -631,7 +686,9 @@ at the Anahata. These subtle laws are translated into microcosmic
 existence and harmonized with humane sentiment and discerning wisdom. .
 The principles of Yama and Niyama serve as guidelines to develop this
 natural, moral conscience that is guided by the Intuitive Mind.
+
 Depression
+
 There are 3 main degrees of depression that can be experienced. The
 propensity of psychic stupor at the 2nd vortex is of course the heaviest. It
 represents a crippling of the entire psychological foundation. With
@@ -655,6 +712,7 @@ elements of the personality together and give it inspiration and direction.
 Conscience is the guiding spirit within mind. It shows us what is virtuous
 and how to align ourselves with the spirit of benevolence or Dharma at any
 given moment and in any situation.
+
 The flow and dynamics of mental life is not a chaos but a very refined
 order. It is only when the ego resists this intuitive order that one can
 become confused, alienated, enervated, and eventually depressed.
@@ -684,7 +742,9 @@ situation is an opportunity for growth-to exercise our discriminative
 intellect, insight and humane compassion. Within us always is conscience,
 the voice of Spirit, incessantly guiding and directing our lives for our
 greatest good. We need only to listen to and be true to ourselves.
-The Dynamics of “Ja” and “Jha” in Self and Selfishness
+
+### The Dynamics of “Ja” and “Jha” in Self and Selfishness
+
 With the seventh vrtti of the spiritual heart, we move into the right, solar
 side of the Anahata Vortex. Here the centrifugal force is stronger than the
 centripetal force and the tendencies on this side move more outward than
@@ -731,6 +791,7 @@ so-called developed world. Now, in the north of Mexico, I see that most
 people want to have a typical American life-style and that these
 materialistic, individualistic values only further corrupt what is already quite
 a troubled culture.
+
 One can carry this selfishness over into one’s spiritual practice as well
 and selfishly seek enlightenment. One who truly knows the Atman also
 loves from this sublime stance. I have seen many who devote long hours to
@@ -746,6 +807,7 @@ especially Tantra Yoga, is not a form of psychotherapy designed to cure
 modern psychological complexes. Rather, it is a form of pinnacled, “apex
 psychology” designed to help well-adjusted people attain spiritual
 realization.
+
 For those not so well-adjusted, a clear, psychological understanding of
 yama and niyama coupled with gentle asanas and meditation is necessary
 before attempting any other practices. If one looks at the world of yoga, it is
@@ -767,7 +829,9 @@ suffering. The individual who truly understands his/her inner self will always
 contribute something good to the collective well-being. Through the
 contemplation and devotion to the pure “I” beyond thought and volition,
 one can’t help but find oneself in all persons.
+
 Ego, Self-Identity
+
 Aham-vrtti does not refer to egotism or the vrtti of vanity. Instead, this
 propensity is the feeling of one's actual identity. It is the existential concept
 of what one's psychological make-up consists of, independent of inferiority
@@ -775,6 +839,7 @@ or superiority complexes, of what the essential nature of the personality is.
 It informs one of what are the innate proclivities; one's cognitive styles and
 affective tones, whether one is introverted or extroverted, a thinker or a
 feeler, analytical or intuitive, etc..
+
 This self-concept is a notion of identity that organizes and structures the
 various propensities and modes of thought into an organized concept of a
 general identity. Ego vrtti gives a thought-form to the notion of "I".
@@ -782,6 +847,7 @@ Although the "I" or Mahat is clearly manifest at the Anahata Vortex, it is
 still qualified by phenomenal reality. The reality of the ego here is mental
 and psycho-spiritual. Ego, therefore, is a concept of what the "I" is in
 relation to the relative world.
+
 Deep and wondrous potentials are possible with this vrtti. The human
 notion of the "I" is most often bound into sociological, national, cultural, and
 regional as well as the limited notions of the lower personality. However, a
@@ -812,13 +878,16 @@ the developed human being that self-consciousness knows itself
 fundamentally as Supreme Consciousness, even though there still may be
 subtle qualifications of that Consciousness. But without those subtle
 qualifications, the Infinite would not have a personality.
+
 All human beings are gods in disguise. Only one who treads the deepest
 ground of their being and identity realizes that their life, their being, and
 relative existence is in truth a vehicle for Shiva to manifest itself in
 multitudinous forms of personality. The infinite gives a name to the
 nameless. This is perhaps the sweetest and melodious truth of human life:
 that human life is verily the Life Divine.
+
 Egoism, Selfishness
+
 While all of the vrttis of the Anahata Vortex are related to the concept of
 self, half of them bind the identity to the limitations of self while the other
 half, the positive qualities, provide an impetus for the expansion of the
@@ -827,6 +896,7 @@ qualities that one identifies with in an attempt to establish one's existential
 identity. The vrtti of selfishness is similar with its fixation on the qualities of
 the limited identity. However, with this tendency there is even more of a
 sharp and guarded egocentrism than with vanity.
+
 Vanity is a limitation, but at the same time gives one a sense of pride
 and confidence with a belief in their self-efficacy. One can have a healthy
 personality with good qualities but still hold onto a little pride. Selfishness
@@ -838,6 +908,7 @@ and connect with others. This is more difficult for the selfish in that their
 self-concern and importance is not just to polish off and refine the
 personality. Rather it is a defense that helps to hold together the integrity
 of a weak ego structure.
+
 Very often this vrtti is found to work in accordance with the vrttis of the
 second vortex. Resentment, compulsion, repression (of the 2nd vortex) are
 all propensities that hold together the integrity of the ego's foundation. If
@@ -850,7 +921,9 @@ often aloof, distrustful, and vacillates between a constrained emotional
 detachment and a repression of infantile tendencies and a compulsion to
 act upon them. One also maintains a very marked self-other boundary that
 keeps others at a safe distance.
-Duplicity
+
+Duplicity and "na"
+
 If there ever were a favorite hiding place for psorax in the human mind,
 it must be in the vortex or vrtti of duplicity. Recall that psorax is the term
 that Pluma Blanca referred to as the centripetal or return force in the
@@ -865,6 +938,7 @@ of compensation to put the universe back into order after distorting it with
 an impulsive will. Is psorax really evil? It just pretends to be the bad guy to
 reflect our own shadow. Behind everything in this phenomenal world exists
 an underlying love.
+
 With duplicity the mind has evolved what seems to be an efficient
 mechanism of allowing 2 contrary systems to function side by side without
 any contradiction, or so it seems. The “raging bundle of desire in a dying
@@ -875,6 +949,7 @@ about our lives in the more shadowy area while at the same time giving free
 reign to the wolf inside without compunction or pangs of conscience. In
 short, duplicity is a lie. It is an attempt to save face, to not admit that one is
 governed by the shadow.
+
 The shadow, and therefore psorax, is everywhere humans are; in
 individuals and the collective. The grossest examples exist common society,
 in our daily conventions, and especially religion and politics. The imperialist
@@ -896,6 +971,7 @@ little notion of or feel helpless to the false realities of their lives. A life
 unconnected to the subterranean flow of unity consciousness will always be
 compensated by cosmic law; the grosser the transgression, the grosser the
 reaction.
+
 Whenever the personality makes a jump from one kosa to the next there
 is of necessity a shift of psychic energy as well as the objectives of that
 psychic energy. A healthy evolutionary leap from one kosa to the next
@@ -932,6 +1008,7 @@ protocol. What is meant here is not the expression of different facets of the
 personality that actually accord to a current situation. Instead duplicity is
 the act of covering up, putting up a show or "persona" to cover up an
 undesirable inner reality.
+
 This mixing of antithetical positions within the same mind causes the
 cognition to cover both fields, "to hunt with the hounds as well as run with
 the hares." At one time the assertions, compulsions, hatred, etc. can assert
@@ -993,6 +1070,7 @@ are the perfect medium to transfer one’s own dark side onto another. The
 may be your best friend in that one can really begin to understand this
 unconscious game of shadow projection that has the whole world going
 insane.
+
 The most subtle expression of duplicity is the recognition of the fact that
 there is only one, integral consciousness in the universe but I still can’t let
 go of my ego with its projections of name and form onto the supreme
@@ -1005,18 +1083,22 @@ formless god says “no more of this” and unifies you with the Om that is
 beyond but vibrates every particle of this universe! Om will always drown
 out your little words for god. Only a direct, unmediated understanding of
 Oneself destroys all religious belief and dogma.
+
 The complete purification of this vrtti of duplicity purifies the right, solar
 side of the Anahata Vortex and allows one to contemplate the pure “I” at its
 seat in the human spiritual heart. Without this vortex of duplicity vibrating
 and bifurcating the right side of the anahata, the vedantic sages
 contemplated the pure Self in the right side of the chest where it radiates
 outward in innocence and purity.
+
 After duplicity there are two more vrttis in the anahata, argumentation and
 repentance. One can keep up the act, the duplicitous war of soul attrition, a
 little longer with the ammo of argumentation or put an end to it with a deep
 feeling of regret or repentance and change course toward what is
 eventually complete surrender of the ego.
-The Dynamics of “Ta” and “Tha” in Argumentation and Repentance
+
+### The Dynamics of “Ta” and “Tha” in Argumentation and Repentance
+
 The Anahata is the moral battleground in the war of dharma. Dharma
 means the true essence of something independent of our varied
 interpretations of it, the thing-in-itself. In this case dharma refers to human
@@ -1041,6 +1123,7 @@ cognitive dissonance in which the intellect identifies with the false form of
 conscience and argues against their true moral conscience. In this
 example, the conscience takes the side of “God Bless America” instead of
 the more intuitive conscience that says “this is all a lie.”
+
 “Ta” is the sound vortex behind the propensity of argumentation.
 Because it is a movement against true conscience, it is always doomed to
 fail. Pure justice or dharma doesn't require the arguments of the ego and is
@@ -1057,7 +1140,9 @@ suffering is to become more aware, take responsibility and make some
 major decisions. Only in this manner will the separate, willful, and
 egocentric mind ever abandon its arguments and justifications for its baser
 tendencies.
+
 Argumentation
+
 The next to last vrtti of the Anahata Vortex is argumentation. In general,
 argumentation is a way for the ego to defend itself against uncertainty by
 summoning up reasons and arguments to convince others or oneself of
@@ -1079,6 +1164,7 @@ we make judgments against others we not only condemn them but our own
 shadowy parts as well. And so with this form of argumentation and
 judgment we create a rift and boundary between self and others and also
 between self and other parts of self.
+
 From a spiritual perspective one sees argumentation as an attempt to
 defends one's projections of how the ego fits into its personal, social, and
 spiritual realities. Normally, a person is not very secure within. Our beliefs
@@ -1090,6 +1176,7 @@ tension. We often believe in something or someone out of ignorance,
 desperation, laziness, or superficial conformity. It is important to realize
 these parts of our personal "ideology" so we don't fall into complacency and
 one-sidedness.
+
 In the deeper sense argumentation is indecision. "Is this morally
 correct?, am I really living to my full capacity?, am I in harmony with my
 universe?" It is quite natural and even useful in the expansion of the mind if
@@ -1110,6 +1197,7 @@ silence of the Witness creates a reverberation of grace as an echo from this
 silence. All mental distortions and problems, no matter how great, may be
 straitened out by making the mind parallel with the Witness, by becoming
 one with my source.
+
 How can one be centered in the Witness when the mind is so confused,
 split, and unconscious of itself? Unifying the mind with the essence of
 awareness makes the mind full of this awareness and purifies all the little
@@ -1123,7 +1211,9 @@ Eternal Now from this perspective. Rilke asked, "Who really lives this life
 anyhow, is it you God?" The mind is known to the Witness as its own little
 self, a little wave on its own ocean, a self-becoming progeny being
 constantly and eternally born out of its Infinite being.
+
 Repentance
+
 My friends once asked me why I didn't get angry with a mechanic who
 once took my engine out, apparently reinstalled it by putting everything in
 its place but only tightened the nuts and bolts with his fingers. I say that
@@ -1151,6 +1241,7 @@ imagine. The blind and selfish mind only becomes aware of this after much
 suffering. Having burned oneself with the fire of suffering and alienation
 over and over, one finally begins to awaken and see the law of cause and
 effect at work.
+
 To an awakening mind there will always be an opportunity for the
 intelligent moral order of the universe to create conditions of grace so as to
 call and welcome all microcosms back into unity with the Macrocosmic
@@ -1173,6 +1264,7 @@ harmonious conduct with the universe. To have experienced the great
 wonder of existence, to have encountered a little bit of the infinite presence
 in a few clear moments of grace, and to sustain them through meditation
 and devotion will always keep ones direction onward.
+
 Although I speak of repentance as the last mental vortex of the spiritual
 heart, it can just as well be considered the first if we count from below
 upward. Its controlling sound “tha”, is the densest vibration of the Anahata
@@ -1183,6 +1275,7 @@ back into the purity of pure spirit. When there are no vrttis to create pride
 or repentance that perturb the essence of the spiritual heart, one becomes
 empty of form and intention but full of Infinite Consciousness. One’s self is
 sacrificed to the heart of the universe.
+
 While it is true that all actions of the microcosm are compensated with
 reactions, there are some profound patterns in the mind that truly lead the
 microcosm into union. These actions don't rebound with reactions but
@@ -1205,7 +1298,9 @@ parallel the mental changes. Participating in evolution as a responsible
 individual is the greatest duty that a human being has toward the collective
 evolution of humanity to something truly dignified and deserving of the
 divine potential within.
-The Free Self
+
+### The Free Self
+
 When the vrttis of the spiritual heart are understood and liberated, their
 energy retires inward into pure idea. One feels that from the center of the
 chest extends an element of a subtle, invisible air that is not bound by any
@@ -1221,6 +1316,7 @@ I-feeling is still pure and undivided. Idea is more real than matter. To move
 up from here is complete dissolution of the phenomenal self into Spirit, to
 move down from here is the materialization of this self into the physical
 universe.
+
 A yogi may delight in this ecstasy: to let oneself flow outward only from
 the spiritual heart and aerial factor so that your being may touch every
 particle of the universe. Everything becomes familiar and pure, even what

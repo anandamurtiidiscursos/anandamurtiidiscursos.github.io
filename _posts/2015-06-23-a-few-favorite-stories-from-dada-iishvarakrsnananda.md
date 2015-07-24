@@ -4,7 +4,7 @@ tags: [Spiritual Tantra]
 ---
 
 {% capture images %}
-	/images/dadaik.jpg
+	/images/dadaIK.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 Dada Iishvarakrsnananda or "Dada I.K." was my meditation and yoga teacher when I was in Ananda Marga. He was the most humane and friendly person I have ever known. I continue to admire his moral courage and feel that his sincerity, discernment, and pure intentions are a great inspiration for many. 
