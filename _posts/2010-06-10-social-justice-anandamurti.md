@@ -1,7 +1,10 @@
 ---
-title: Social Justice 
-tags: [Social Tantra]
+title: "Social Justice - Anandamurti"
+tags: 
+  - Social Tantra
+published: true
 ---
+
 Different groups of people contribute to the building of society in different ways. This diversity carries a special significance for the social structure as a whole. If diversity had not existed, human society would not have advanced even as far as the Stone Age, let alone the present stage of civilization. So we have to impartially consider and support all the diverse ideas, forms and colours which are conducive to fostering personal growth and social development among human beings. If we fail to do so, that section of society which has been built around a particular idea, form or colour will wither and die. I direct this not only to those who think deeply about social welfare, but to all members of society, to impress upon them that no one, through their thoughts, words or actions, should ever condone injustice.</p>
 <a name="5..2"></a>
 
