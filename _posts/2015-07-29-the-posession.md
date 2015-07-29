@@ -1,7 +1,10 @@
 ---
-title: The Posession
-tags: [Social Tantra]
+title: The Possession
+tags: 
+  - Social Tantra
+published: true
 ---
+
 I saw the first images of carnage during the first Gulf War my last year in high school.  I was disgusted and ashamed.  Although most of the teachers and leaders in society were supporting the government propaganda of a justified attack, there were also a few dissenters in the public school system who gave alternative views.  I had been influenced by one such teacher.  I really had no strong political views but I learned just enough of modern politics to entirely mistrust our government.  At the same time a giant boil appeared on my cheek.  It was enormous and swollen and very embarrassing.  As the fluid oozed out all I could think about were the images of the bodies of the hotel clerks who were killed by misguided guided missiles.  I was ashamed to be an American.  No more John Wayne and heroic Green Berets saving the day; just filthy rotten imperialists and duped, flag-waving morons robbing and murdering weaker societies for their natural resources.  Well, for several years at least I vacillated between that extreme definition of my countrymen or the definition that they are also victims exploited by bad education and capitalist pseudo-culture.  Either way, fascism always ends up taking hold of empires in the end.
 
 During the second invasion of Iraq in the spring of 2003 the boil returned in exactly the same place.  It was like a malevolent spirit that still haunted me.  I was no longer ashamed of being an American because I had become a universal citizen by then.  I really saw us as no more different than the German population around the time of Hitler.  However, I still had those same feelings of disgust with the mindless American populace that unwittingly goes along with the plans of the military industrial complex, bankers and politicians that make all of this profitable war business and propaganda possible.  More than just a rebellious attitude against authority, it was rather an attitude that these worms have no right to inflict this terror on any human being, especially when the justifications for aggression are based on crude lies.
