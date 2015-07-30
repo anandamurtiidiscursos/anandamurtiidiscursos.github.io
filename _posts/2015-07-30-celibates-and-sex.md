@@ -2,7 +2,8 @@
 title: Celibates and Sexuality
 tags: 
   - Spiritual Tantra
-published: true
+excerpt: 
+What he told me weren't some exact, specific techniques to make a desire disapper.  Rather it is an attitude and way of life in general that works to transform the mind and body with their desires.  Few people understand the deep reasons for spiritual discipline and what the yogi truly wants to achieve.
 ---
 
 
