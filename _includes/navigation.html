@@ -3,19 +3,19 @@
 	<ul class="dl-menu">
 		<li><a href="{{ site.url }}/">Home</a></li>
 		<li>
-			<a href="#">About</a>
+			<a href="#">Author</a>
 			<ul class="dl-submenu">
 				<li>
 					<img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
 					<h4>{{ site.owner.name }}</h4>
 					<p>{{ site.owner.bio }}</p>
 				</li>
-				<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">Learn More</span></a></li>
+				<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse"></span></a></li>
 				{% if site.owner.email %}<li>
 					<a href="mailto:{{ site.owner.email }}"><i class="fa fa-fw fa-envelope"></i> Email</a>
 				</li>{% endif %}
-				{% if site.owner.twitter %}<li>
-					<a href="http://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
+				{% if site.owner.diaspora %}<li>
+					<a href="http://diasp.de/{{ site.owner.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
 				</li>{% endif %}
 				{% if site.owner.facebook %}<li>
 					<a href="http://facebook.com/{{ site.owner.facebook }}"><i class="fa fa-fw fa-facebook"></i> Facebook</a>
