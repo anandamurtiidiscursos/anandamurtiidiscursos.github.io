@@ -2,10 +2,8 @@
 title: The Possession
 tags: [Social Tantra]
 published: true
-excerpt: I lied there all night listening to the suggestions of this dark entity.  I knew it was either it or I that would be alive in the morning.  Fortunately, my life was very full and vibrant and I didn't accept any of the suggestions from this evil.  It was like a pattern that simply made everything negative and distorted-  pessimistic and destructive thoughts, hateful feelings, while at the same time it siphoned the life out of the body.  It was a contest to see which mental pattern would control this body, the evil plasma or my own conscience.  I could now understand very well what was affecting our friend and her family. 
 ---
 
-<<<<<<< HEAD
 {% capture images %}
 	/images/complex.jpg
 {% endcapture %}
