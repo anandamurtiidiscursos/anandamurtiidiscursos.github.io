@@ -1,7 +1,6 @@
 ---
 title: The Possession
 tags: [Social Tantra]
-published: true
 ---
 
 {% capture images %}
