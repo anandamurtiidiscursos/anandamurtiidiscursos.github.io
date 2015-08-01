@@ -1,12 +1,11 @@
 ---
-title: Celibates and Sexuality
-tags: 
-  - Spiritual Tantra
 published: true
 ---
 
 
-I have had some requests to continue writing about my experiences with the yogis in India I met in my youth. I have been requested to speak more about the tips on channelising sexual energy as told to me by the yogi I mentioned in the essay "Form and Formlessness" last week.  I gladly concede to this because I believe that sexuality is one of the least understood subjects in human life.  It effects everyone, but few have found a tranquil solution to this knotty(no pun intended) subject.  
+
+
+I have had some requests to continue writing about my experiences with the yogis in India I met in my youth. I have been requested to speak more about the tips on channelising sexual energy as told to me by the yogi I mentioned in the essay "Form and Formlessness" last week.  I gladly concede to this because I believe that sexuality is one of the least understood subjects in human life.  Sex is a part of everbody's life, but few have found a tranquil solution to this knotty(no pun intended) subject.  
 
 There is so much suffering caused by blind sexuality.  So many women are abandoned with children by men whose animal instincts soon pull them elsewhere after a little sensory gratification.  The trail of trauma for the woman may continue as she must struggle to care for the child that have been abandoned.  Or perhaps it was her unfulfilled or frustrated desires that caused the separtion to begin with.  One thing is certain, and it is that there are fewer and fewer examples of harmonious co-existence in human sexual-emotional affairs.  As a culture we have gone back into the stone age as regards to sexuality; only we don't have giraffs and rhinoceros to chase and hunt down in order to channelize this energy and give us some relief.  Instead there is emerging a whole culture of permissiveness and even indulgence.  In truth, this distortion of the sexual tendency leaves many with very little happiness remaining in marriage or interpersonal relationships.  Conversely, I see very little hope in "free love" and open relationships as well.  While some like the way it sounds in theory, I have always seen that somebody always ends up getting hurt.  What we need is love.  Sexuality doesn't necessarily have to ruin this but it usually does if one or both people lack insight into what emotive factors are really driving them deep within.  And it is only by going deep within and seeing these needs that one can find fulfillment in sexuality and relationships.  Very few people can altogether transcend these needs.  These people are very rare and very interesting.
 
