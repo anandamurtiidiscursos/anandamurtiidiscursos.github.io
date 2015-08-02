@@ -1,9 +1,8 @@
 ---
 title: Possession
 tags: [Social Tantra]
-{% highlight yaml %}
-share: false
-{% endhighlight %}
+comments: true
+share: true
 ---
 
 
