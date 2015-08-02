@@ -1,7 +1,10 @@
 ---
+layout: post
 title: Possession
 tags: [Social Tantra]
+comments: true
 ---
+
 
 {% capture images %}
 	/images/complex.jpg
