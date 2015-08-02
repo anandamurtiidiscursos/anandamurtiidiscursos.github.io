@@ -1,11 +1,15 @@
 title:            Vishal Eckhart 
+<<<<<<< HEAD
 description:      Describe your website here.
+=======
+description:      Tantra Maya Blog
+>>>>>>> 525e79f2a20291dea0c464dcbe5bf2a4e8b78b80
 disqus_shortname: tantramaya
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-#url:
+url: http://tantramaya.org
 
 # Owner/author information
 owner:
@@ -16,7 +20,11 @@ owner:
   
   # Social networking links used in footer. Update and remove as you like.
   #diaspora:  https://diasp.de/people/d7b3c230564e0132bdcf543d7ed6cc36
+<<<<<<< HEAD
   facebook:  
+=======
+  facebook:  https://facebook.com/chappatieckhart
+>>>>>>> 525e79f2a20291dea0c464dcbe5bf2a4e8b78b80
 
 # Background image to be tiled on all pages
 background: 
