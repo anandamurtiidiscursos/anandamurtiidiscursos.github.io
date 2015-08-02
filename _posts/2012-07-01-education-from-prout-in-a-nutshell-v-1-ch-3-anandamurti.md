@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Education - Anandamurti
 tags: [Social Tantra]
+comments: true
 ---
 <div class="book_chapter_info_top"></div>
 <p class="Para_Indent">Parents<a name="Ref.3.fn1"></a><sup>(<b><a href="file:///home/v/a.m.books/Books/Prout_in_a_Nutshell_01.html#3.fn1">1</a></b>)</sup> often allege that teachers do not teach anything worthwhile nowadays, but I do not feel that this is a very well-considered remark. In actual fact they are only making excuses in order to avoid their responsibilities. At the same time, however, I should add that most teachers demonstrate, through their mental outlook or their actions, far less awareness of their social responsibilities than concern for their own interests. They do not devote even a fraction of the time and energy to building society that they spend making money by any means possible, such as by writing “made easies” [course summaries] or study guides.

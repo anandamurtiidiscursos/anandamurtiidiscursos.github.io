@@ -1,6 +1,8 @@
 ---
 title: Microvita and Tantra Maya ch.7 "Mentities and Biopsychology"
 tags: Microvita
+comments: true
+layout: post
 ---
 
 {% capture images %}

@@ -1,6 +1,8 @@
 ---
 title:  Microvita and Tantra Maya ch.3 "Life, Evolution and Microvita"
 tags: Microvita
+comments: true
+layout: post
 ---
 
 {% capture images %}

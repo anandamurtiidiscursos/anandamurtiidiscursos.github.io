@@ -2,7 +2,7 @@
 layout: post
 title: Form and Formless
 tags: [Spiritual Tantra]
-excerpt_separator: <!--more-->
+comments: true
 ---
 
 “Brahma alone is the guru.” This saying from the Upanishad represents a very universal conception of the deity. Brahma literally means that which is great and makes others great. In other words, Brahma is the Consciousness of the Macrocosm, of the entire universe. The guru is none other than the Supreme Consciousness and cannot be tainted by partiality nor prejudices nor any relative projection of a messiah or human guru. What is, simply is. <!--more-->If the Supreme Consciousness can create this entire universe, then surely there is an unmediated, direct way to communicate with me, a little microcosm in this Macrocosm. "Am I a secluded figure, in the vast, a little ameagre? No no no no I am not alone, the great is with me."

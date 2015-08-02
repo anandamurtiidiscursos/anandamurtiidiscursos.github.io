@@ -1,6 +1,8 @@
 ---
 title: A Name to the Nameless partII ch.7  "The Sahasrara Vortex" 
 tags: [A Name to the Nameless]
+comments: true
+layout: post
 --- 
 
 {% capture images %}

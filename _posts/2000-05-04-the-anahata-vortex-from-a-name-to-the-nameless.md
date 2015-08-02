@@ -1,6 +1,8 @@
 ---
 title:  A Name to the Nameless partII ch.4 "The Anahata Vortex"
 tags: [A Name to the Nameless]
+comments: true
+layout: post
 --- 
 
 {% capture images %}

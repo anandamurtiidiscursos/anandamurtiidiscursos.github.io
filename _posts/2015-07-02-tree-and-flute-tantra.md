@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Neem Tree and Flute Tantra
 tags: [Spiritual Tantra]
+comments: true
 ---
 
 {% capture images %}

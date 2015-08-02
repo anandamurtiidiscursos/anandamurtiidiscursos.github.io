@@ -1,6 +1,8 @@
 ---
+layout: post
 title: A FEW FAVORITE STORIES FROM DADA IISHVARAKRSNANANDA
 tags: [Spiritual Tantra]
+comments: true
 ---
 
 {% capture images %}

@@ -1,6 +1,8 @@
 ---
 title: The Vaeshya Age -Anandamurti
 tags: [Social Tantra]
+comments: true
+layout: post
 ---
 Both the kśatriyas and the vipras like to enjoy material wealth, though their methods of accumulating material objects are different. The vaeshyas, however, are more interested in possessing material objects than enjoying them. Looking at their possessions, or thinking about them, gives them a certain peace of mind. So in the Vaeshya Age the practical value of material goods is less than at any other time. They gradually become inert both literally and in financial terms. This is the greatest curse of the Vaeshya Age, because the less the mobility of material goods, that is, the greater their stagnation in different spheres, the more harmful it is for the common people. In the Kśatriya and Vipra Ages it is very rare for people to die of starvation while grains rot in the warehouses. Although there is disparity of wealth in the Kśatriya and Vipra Ages, kśatriyas and vipras do not kick others into a pit of privation, poverty and starvation while they themselves enjoy their wealth. This is because they see other people as tools to be used for the purpose of exploitation, but do not see them as the wellspring of exploitation as the vaeshyas do. To a vaeshya, the shúdras, kśatriyas and vipras are not only tools to be used for exploitative purposes, they are the wellspring of exploitation as well.</p>
 <a name="5..2"></a>

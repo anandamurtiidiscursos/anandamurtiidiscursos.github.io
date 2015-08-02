@@ -1,6 +1,8 @@
 ---
 title: Microvita and Tantra Maya - Introduction
 tags: Microvita
+comments: true
+layout: post
 ---
 
 {% capture images %}

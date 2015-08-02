@@ -1,6 +1,8 @@
 ---
+layout: post
 title: The Spiritual Heart
 tags: [The Spiritual Heart]
+comments: true
 ---
 
 {% capture images %}

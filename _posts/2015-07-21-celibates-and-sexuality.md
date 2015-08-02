@@ -1,5 +1,8 @@
 ---
-published: true
+layout: post
+title: Celibates and Sexuality
+tags: [Social Tantra]
+comments: true
 ---
 
 

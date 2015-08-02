@@ -1,6 +1,8 @@
 ---
+layout: post
 title: In the Glory of Shiva – Anandamurti 
 tags: [Spiritual Tantra]
+comments: true
 ---
  From the study of history, it is known that the Rgveda was composed outside India, mainly in Central Asia and Russia. The Yajurveda was written mostly outside India; only a portion was written in India. And the Atharvaveda was composed in Afghanistan and India. Those three Vedas – Rk, Yaju and Atharva – long afterwards, say about 3500 years ago – were edited and divided into different branches by Maharśi Krśńadvaepáyana Vyása. The oldest compositions were named Rgveda, the intermediate portions were called Yajurveda, and the remaining portions were named Atharvaveda. The last-named Veda was named after the great sage, Atharva, the first author of this Veda. And by compiling the musical compositions of the three Vedas, yet another Veda - the Sámaveda, the fourth Veda – was created. Sáma in Sanskrit means “musical composition”. The Sámaveda itself is not a Veda.
 

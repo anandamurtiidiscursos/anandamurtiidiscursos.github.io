@@ -1,6 +1,8 @@
 ---
 title: Social Psychology- Anandamurti
 tags: [Social Tantra]
+comments: true
+layout: post
 ---
 <a name="3..1"></a>
 <p class="Para_Indent">For the existence of human beings in society the following fundamental factors are necessary – unity, social security and peace. What is actually required under each of these fundamental factors is discussed below.</p>

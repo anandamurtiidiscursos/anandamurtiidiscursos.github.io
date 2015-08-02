@@ -1,6 +1,8 @@
 ---
 title: A Name to the Nameless partII ch.3 "The Manipura Vortex"
 tags: [A Name to the Nameless]
+comments: true
+layout: post
 --- 
 
 {% capture images %}

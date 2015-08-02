@@ -1,6 +1,8 @@
 ---
+layout: post
 title: The Evolution of Society - PROUT in a Nutshell v.1 ch.1 - Anandamurti 
 tags: [Social Tantra]
+comments: true
 ---
 This creation of five fundamental factors is the crudest manifestation of Macrocosmic Citta or Cosmic Mental Stuff. During the introversial phase of the Cosmic Mind, or pratisaiṋcara, the quinquelemental factors came in touch with the divine powers of Puruśottama, the Supreme Knowing Entity, and developed the vibrations of life. The more this vital energy received the brilliance of Brahma or Supreme Consciousness, the more enlightened it grew, and this glow led it forward on the path of self-realisation. The highest of the thinking creatures have been able to accelerate the speed of their unit consciousness ahead of the speed of attraction, or the introversial phase of Brahma. The highest living being was called a human being or mánuśa, which means an intellectual being.
 

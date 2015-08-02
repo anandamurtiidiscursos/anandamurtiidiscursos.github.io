@@ -1,6 +1,8 @@
 ---
+layout: post
 title: The Divine Mother 
 tags: [Spiritual Tantra]
+comments: true
 ---
 
 {% capture images %}

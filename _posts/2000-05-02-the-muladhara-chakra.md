@@ -1,6 +1,8 @@
 ---
 title: A Name to the Nameless part2 ch.1 "Tantric Psychology" and "Muladhara Vortex"
 tags: [A Name to the Nameless]
+comments: true
+layout: post
 --- 
 
 {% capture images %}

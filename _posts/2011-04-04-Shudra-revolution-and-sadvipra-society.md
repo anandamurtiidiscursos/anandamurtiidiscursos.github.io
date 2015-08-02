@@ -1,6 +1,8 @@
 ---
 title: Shúdra Revolution and Sadvipra Society - Anandamurti
 tags: [Social Tantra]
+comments: true
+layout: post
 ---
 The inevitable consequence of vaeshya (capitalist) exploitation is shúdra (worker) revolution. When the vaeshyas, maddened with excessive greed, lose their common sense completely and forsake their humanity totally, then for shúdra revolution the opportune time has come. However, it cannot be said that shúdra revolution will automatically occur just because an opportune time has come. Proper conditions relating to place and person will bear much of the responsibility.</p>
 

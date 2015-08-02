@@ -1,6 +1,8 @@
 ---
 title: A Name to the Nameless partII ch.2 "The Svadhistana Vortex" 
 tags: [A Name to the Nameless]
+comments: true
+layout: post
 --- 
 
 {% capture images %}

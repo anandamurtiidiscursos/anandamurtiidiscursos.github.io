@@ -1,6 +1,8 @@
 ---
 title: Preface and Introduction to A Name to the Nameless 
 tags: [A Name to the Nameless]
+comments: true
+layout: post
 --- 
 
 {% capture images %}

@@ -1,7 +1,10 @@
 ---
 title: The Fundamental Negativity
 tags: [Spiritual Tantra]
+comments: true
+layout: post
 ---
+
 {% capture images %}
 	/images/cobra.jpg
 {% endcapture %}

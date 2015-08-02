@@ -1,6 +1,8 @@
 ---
 title: Microvita and Tantra Maya ch.6 "Tantrics of the Light and the Dark"
 tags: Microvita
+comments: true
+layout: post
 ---
 
 {% capture images %}

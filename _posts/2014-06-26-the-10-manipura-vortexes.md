@@ -1,6 +1,8 @@
 ---
+layout: post
 title: The 10 Vortexes of the Manipura
 tags: [Spiritual Tantra]
+comments: true
 ---
 
 Shame bears a resemblance to the vrtti, lack of confidence, in the second vortex.  The difference between them is that with lack of confidence there is a generalized, pervasive inferiority regarding one's fundamental self-concept. Shame is a contraction of the expanding Manipura personality due to a disruption in one's self-image.  The punitive and oppressive feeling of blame and the corresponding self and/or social judgment of the ego being inferior, a failure, unworthy, ill, base, sinful, etc. are due to activities and interactions of the ego that have transgressed social forms or boundaries or have failed to meet the expectations of the social environment.  

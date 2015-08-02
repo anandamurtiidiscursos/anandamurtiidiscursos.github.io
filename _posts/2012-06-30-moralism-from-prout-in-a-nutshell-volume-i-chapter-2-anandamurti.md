@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Moralism - Anandamurti
 tags: [Social Tantra]
+comments: true
 ---
 The inner spirit of the word samája [“society”] is “to move together”. That is, the vitality of society depends on two factors: its existence – a collective creation – and its inherent dynamism. The characteristic of an activating force is that it does not move in a perfectly straight line, rather its movement is rhythmic or undulating; and this rhythm or wave is not monomorphic but systaltic. The force that moves society forward is also systaltic. When the nature of movement of individual life does not hinder the rhythm of collective movement of society, there remains the possibility of forming a society from the collective movement of numerous individuals – there lies the possibility of creating a universal intellectual structure inspired by the brilliance of sublime ideas.</p>
 

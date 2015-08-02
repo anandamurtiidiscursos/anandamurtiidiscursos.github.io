@@ -1,7 +1,10 @@
 ---
+layout: post
 title: Non-Dualism Cures all Diseases 
 tags: [Spiritual Tantra]
+comments: true
 ---
+
 {% capture images %}
 	/images/tm.jpg
 {% endcapture %}

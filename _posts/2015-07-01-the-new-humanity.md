@@ -1,6 +1,8 @@
 ---
+layout: post
 title: The New Humanity 
 tags: [Spiritual Tantra]
+comments: true
 ---
 I feel certain that the solution to the electromagnetic imbalances that are so greatly affecting the collective consciousness of the planet is quite simple and clear: take refuge in a higher ground. This planet maintains a balance with gravitational and electromagnetic forces by which our consciousness, a complex process involving the glandular and nervous system as well as the mind and Consciousness, has evolved and adapted over millions of years. Despite the fact that many people are having some severe problems of maladaptation to these new conditions, there is a great potential to make some huge leaps in personal and collective awareness.
 

@@ -1,6 +1,8 @@
 ---
 title: Microvita and Tantra Maya ch.8 "The Cultivation of Positive Mentities"
 tags: Microvita
+comments: true
+layout: post
 ---  
 
 {% capture images %}

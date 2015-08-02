@@ -2,6 +2,8 @@
 layout: post
 title: Kaunkálamálinii Samádhi 
 category: [Spiritual Tantra]
+comments: true
+layout: post
 ---
 The following is from Discourses on Tantra V.II by Anandamurti. The garland of skulls are the 50 mental vortexes that the yogi must pass through on the journey to the infinite. They create the masks of selfishness, vanity, and separation that mother Kali removes; sometimes it is a little frightening. Just like the union of indescribable joy described through samadhi, or union with the divine, it is also a death experience for what was never truly alive inside of us anyways. However, the ego always resists. Mother Kalii comes to clean up the ego's mess and put us back on the proper path. The "violence" of the experience is but the resistance of our tenacious separateness from our very own eternal bliss. very profound mythology.
 <strong>Kaunkálamálinii Samádhi</strong>

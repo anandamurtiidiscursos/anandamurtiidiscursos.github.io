@@ -1,8 +1,8 @@
 ---
+layout: post
 title: The Tree Tantra
-tags: 
-  - Spiritual Tantra
-published: true
+tags: [Spiritual Tantra]
+coments: true
 ---
 
 

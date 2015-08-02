@@ -1,6 +1,8 @@
 ---
 title: The Kśatriya Age - Anandamurti
 tags: [Social Tantra]
+comments: true
+layout: post
 ---
 
 <div class="book_chapter_info_top"></div>

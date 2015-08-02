@@ -1,6 +1,8 @@
 ---
 title: Microvita and Microvita ch.1 "The Ellipse and Hunab Ku"
 tags: Microvita
+comments: true
+layout: post
 ---
 
 {% capture images %}

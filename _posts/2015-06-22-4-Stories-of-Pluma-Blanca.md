@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Stories of Pluma Blanca 
 tags: [Spiritual Tantra]
+comments: true
 ---
 
 Pluma Blanca always had a very elevated vibration. When people came near him they would begin to sway in a counter-clockwise direction. Sometimes their heads would begin to tilt and subtly twirl in an almost imperceptible circular motion. He explained that whether you are speaking of the Cosmic Nucleus of Hunab Ku or the Conscious Nucleus of the Atman radiating behind our minds, the movement around either a physical or spiritual nucleus is always a play of the centripetal and centrifugal forces. They have the same dynamics on all planes of being. There are physical vortexes of motion in the physical world where there is the weight and gravity of matter and also vortexes of subtle, mental energy that act and interact with thoughts, feelings, and perceptions. To harmonize the macrocosm with the microcosm, the universe with the individual, one must find this secret flow of Tao both within the mind and in one’s world, planet, and its plants and animals.

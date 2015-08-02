@@ -1,6 +1,8 @@
 ---
 title:  Microvita and Tantra Maya ch.9 "Microvita and the Current State of Affairs on Planet Earth"
 tags: Microvita
+comments: true
+layout: post
 --- 
 
 {% capture images %}

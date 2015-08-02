@@ -1,6 +1,8 @@
 ---
 title: The Place of Sadvipras in the Samája Cakra - Anandamurti
 tags: [Social Tantra]
+comments: true
+layout: post
 ---
 Primitive human beings had no society and the whole set-up was individualistic. Even the concept of family was absent. Life was brute and non-intellectual. Nature was the direct abode and physical strength ruled the day. The strong enjoyed at the cost of the weak, who had to surrender before the voracity of the physical giants. However, the sense of acquisition had not developed in them, and they worked manually, and there was no intellectual exploitation in that age. Though life was brute, it was not brutal.</p>
 

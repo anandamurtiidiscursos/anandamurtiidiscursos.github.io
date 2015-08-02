@@ -1,6 +1,8 @@
 ---
 title: Microvita and Tantra Maya ch.5 "The Negative Mentities"
 tags: Microvita
+comments: true
+layout: post
 --- 
 
 {% capture images %}

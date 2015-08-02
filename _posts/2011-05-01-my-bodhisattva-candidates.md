@@ -1,6 +1,8 @@
 ---
 title: My Bodhisattva Candidates 
 tags: [Spiritual Tantra]
+comments: true
+layout: post
 ---
 
 {% capture images %}

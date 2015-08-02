@@ -1,6 +1,8 @@
 ---
 title: Why Is This Evil Upon Us? 
 tags: [Social Tantra]
+comments: true
+layout: post
 ---
 
 {% capture images %}

@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Reflections on Two Revolutions Two Decades Later 
 tags: [Social Tantra]
+comments: true
 ---
 
 {% capture images %}

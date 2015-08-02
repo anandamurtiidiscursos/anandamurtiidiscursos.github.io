@@ -1,6 +1,8 @@
 ---
 title: The Vipra Age - Anandamurti 
 tags: [Social Tantra]
+comments: true
+layout: post
 ---
 The intellect of intelligent people can penetrate where the rays of the sun cannot. Such people want to enjoy matter without being subservient to it. In other words, they want to control matter with their mental waves. It is not only kśatriyas who do this, but vipras as well. The fundamental difference between kśatriya-hood and vipra-hood is that the ego of the kśatriyas draws objects of enjoyment to itself through a physical struggle with all opposing forces, while the ego of the vipras or their desire for enjoyment draws matter to itself either by the physical force of others through physical clash, or directly through psychic clash but avoiding physical clash, or through physical or psychic clash or both according to the demands of the situation.
 

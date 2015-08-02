@@ -1,6 +1,8 @@
 ---
 title: The Neohumanism of Sadvipras - Anandamurti 
 tags: [Social Tantra]
+comments: true
+layout: post
 ---
 To sadvipras [spiritual revolutionaries] the value of human life surpasses all other values. So states and scriptures, societies and religions, acquire significance only insofar as they develop humanity to the maximum through learning, culture, physical health and economic plenty. It is for the sake of developing humanity that civilization has so many institutions of different kinds, that states take their various forms, that theories proliferate, and that the scriptures abound in ordinances and regulations. What in the world does the state stand for, what is the use of all these regulations, and what are the marvels of civilization for, if people are prevented from manifesting themselves, if they do not get the opportunity to build good physiques, to invigorate their intelligence with knowledge, or to broaden their hearts with love and compassion? If, instead of tending to lead human beings to the goal of life, the state stands in the way, it cannot command loyalty, because humanity is superior to the state. According to Rabindranath Tagore, “Justice and law at the cost of humanity is like a stone instead of bread. Maybe that stone is rare and valuable, but it cannot remove hunger.”
 

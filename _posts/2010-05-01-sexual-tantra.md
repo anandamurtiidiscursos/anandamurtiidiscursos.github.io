@@ -1,6 +1,8 @@
 ---
 title: Sexual Tantra 
 tags: [A Name to the Nameless]
+comments: true
+layout: post
 --- 
 Now I have got your attention! When speaking about the second, or svadhistana chakra, most people immediately think of sexuality. The six vrttis or vortexes of the svadhistana chakra are indifference, depression, compulsion, lack of confidence, paranoia, and resentment. These 6 tendencies have more to do with a lack of sound grounding in one's person rather than sexuality. The sexual drive is rooted in the sensory mind, in the first chakra. The problem is that due to a lack of awareness of one's emotional and physical needs, the sexual desire often gets confounded with these defense mechanisms.
 

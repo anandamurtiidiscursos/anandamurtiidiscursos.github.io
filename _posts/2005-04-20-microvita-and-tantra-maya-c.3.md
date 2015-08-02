@@ -1,6 +1,8 @@
 ---
 title: Microvita and Tantra Maya ch. 2 "The Spiritual Heart"
 tags: Microvita
+comments: true
+layout: post
 ---
 
 {% capture images %}
