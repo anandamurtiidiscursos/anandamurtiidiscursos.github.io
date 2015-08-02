@@ -1,8 +1,7 @@
 ---
 title: Possession
 tags: [Social Tantra]
-comments: true
-share: true
+share: false
 ---
 
 
