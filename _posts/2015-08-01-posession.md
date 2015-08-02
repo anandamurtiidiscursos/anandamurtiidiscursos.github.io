@@ -3,6 +3,9 @@ title: Possession
 tags: [Social Tantra]
 ---
 
+{% highlight yaml %}
+share: false
+{% endhighlight %}
 {% capture images %}
 	/images/complex.jpg
 {% endcapture %}
