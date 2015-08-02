@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Possession
 tags: [Social Tantra]
 comments: true
