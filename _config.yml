@@ -1,5 +1,5 @@
 title:            Vishal Eckhart 
-description:      Describe your website here.
+description:      Tantra Maya Blog
 disqus_shortname: tantramaya
 reading_time:     true
 words_per_minute: 200
@@ -12,11 +12,11 @@ owner:
   name:           Vishal Eckhart
   avatar:         avatar.jpg
   bio:            "Meditator, Writer, Gardener"
-  facebook:        
+  facebook:        https://facebook.com/chappatieckhart
   
   # Social networking links used in footer. Update and remove as you like.
   #diaspora:  https://diasp.de/people/d7b3c230564e0132bdcf543d7ed6cc36
-  #facebook:  https://facebook.com/chappatieckhart
+  facebook:  https://facebook.com/chappatieckhart
 
 # Background image to be tiled on all pages
 background: 
