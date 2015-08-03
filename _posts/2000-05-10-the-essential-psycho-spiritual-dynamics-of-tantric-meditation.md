@@ -1,5 +1,5 @@
 ---
-title:  A Name to the Nameless part3 "The Essential Psycho-Spiritual Dynamics of Tantric Meditation"
+title:  A Name to the Nameless partIII "The Essential Psycho-Spiritual Dynamics of Tantric Meditation"
 tags: [A Name to the Nameless]
 comments: true
 layout: post
