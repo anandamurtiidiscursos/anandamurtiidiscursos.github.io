@@ -1,5 +1,5 @@
 ---
-title: Microvita and Microvita ch.1 "The Ellipse and Hunab Ku"
+title: Microvita and Tantra Maya ch.1 "The Ellipse and Hunab Ku"
 tags: Microvita
 comments: true
 layout: post
