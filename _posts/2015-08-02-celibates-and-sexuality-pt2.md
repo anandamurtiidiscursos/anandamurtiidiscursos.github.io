@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Part II of Celibates and Sexuality - "The Not-So-Celibate Celibates"
+title: Celibates and Sexuality Part II - "The Not-So-Celibate Celibates"
 tags: [Spiritual Tantra]
 comments: true
 ---
