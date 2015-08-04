@@ -15,4 +15,4 @@ He sees all illness as a projection of mental conflicts or imbalances. By intuit
 
 What he shared with me is that all illnesses are clusters of unprocessed, unconscious thoughts and emotions that attack the physical body by first creating imbalances in the glandular system. For him not to have the same illness, he must process the thoughts and emotions of the other as if they were his own. If he doesn't understand these mental patterns behind the illness, then his physical body suffers the same symptoms as the afflicted. I can't get him to tell me how he does it exactly. He is smug in his non-dualist philosophy and simply says that there is only one being in the universe and this being is only understood by the unprejudiced, tranquil and insightful minds. By understanding this fundamental truth, the mind becomes free of all complexes and relieves the body of having to bear the cross of all of the ego's ignorance and unconsciousness that create illness and disharmony. He really can explain a little more, but prefers to let people figure it out for themselves.
 
-&nbsp;
+
