@@ -1,7 +1,7 @@
 ---
 layout: post
 comment: true
-title: Microvita and Tantra Maya ch.11 "Wild Microvita Stories"
+title: Microvita and Tantra Maya ch.11 "Unusual Microvita Experiences"
 tags: Microvita
 ---
 
