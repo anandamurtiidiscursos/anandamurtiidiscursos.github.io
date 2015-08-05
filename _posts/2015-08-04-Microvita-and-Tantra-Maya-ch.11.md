@@ -1,11 +1,7 @@
 ---
 layout: post
 comment: true
-<<<<<<< HEAD
 title: Microvita and Tantra Maya ch.11 "Unusual Microvita Stories"
-=======
-title: Microvita and Tantra Maya ch.11 "Unusual Microvita Experiences"
->>>>>>> 53978ab34266801880d39ed9307c6e4403cbe1d1
 tags: Microvita
 ---
 
