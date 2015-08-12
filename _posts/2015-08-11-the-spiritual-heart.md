@@ -8,6 +8,7 @@ published: true
 ---
 
 
+
 {% capture images %}
 	/images/hunabku.jpg
 {% endcapture %}
@@ -80,8 +81,7 @@ at the 12 vertices of the 2 hexagons. When there is less duplicity,
 arrogance, vanity, and selfishness(negative vrttis), and more love,
 discernment and faith (positive vrttis), then the process of the unification of
 the microcosmic consciousness into the Macrocosmic Consciousness of
-Shiva is well under way. It is here in the spiritual heart of Anahata that the
-nameless godhead of Hunab Ku may evolve a name for itself, for us, within each of us.
+Shiva is well under way. It is here in the spiritual heart of Anahata that the godhead of Hunab Ku may evolve a name for itself, for us, within each of us.
 
 ### The Dynamics of “Ka” and “Kha” through Hope and Worry
 
