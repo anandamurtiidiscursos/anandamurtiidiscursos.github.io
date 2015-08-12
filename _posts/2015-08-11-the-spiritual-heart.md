@@ -22,8 +22,8 @@ but also the qualities of compassion, understanding and unity with the true
 called “vortexs” are balanced by the spiritual heart, what yogis call the
 Anahata Chakra. 
 
-I prefer to use “vortex” instead of “chakra.” The
-traditional concept of the Anahata Vortex is a lotus with 12 petals. Each
+I prefer to use the term “vortex” instead of “chakra.” The
+traditional concept of the Anahata chakra is a lotus with 12 petals. Each
 “petal” is a vortex spiraling out of the greater vortex or “lotus,” like many
 small tornadoes that group together to form one giant vortex. These petals
 or minor vortexes are known as vrttis- vortexes of mental energy. These
