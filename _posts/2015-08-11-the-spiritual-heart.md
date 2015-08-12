@@ -14,26 +14,12 @@ published: true
 	/images/hunabku.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
-We can begin to understand the reasons for the limitations the egocentric
-“I” notion that distorts the pure reflection of Hunab Ku, the godhead, in the human mind by examining the spiritual heart. Within the spiritual heart or Anahata
-Vortex exist the roots of our divided and fragmented modern consciousness
-but also the qualities of compassion, understanding and unity with the true
-“I” within. Pluma Blanca explained that all of the expressions of the so-
-called “vortexs” are balanced by the spiritual heart, what yogis call the
-Anahata Chakra. 
+By examining the spiritual heart we can begin to understand the reasons for the limitations the egocentric
+“I” notion that distorts the pure reflection of Hunab Ku, or "Shiva" in Indian tantra, in the human mind. Within the Anahata Vortex exist the roots of our divided and fragmented modern consciousness but also the qualities of compassion, understanding and unity with the true
+“I” within. Pluma Blanca explained that all of the expressions of the so-called “vortexs” are balanced by the spiritual heart, what yogis call the Anahata Chakra. 
 
-I prefer to use the term “vortex” instead of “chakra.” The
-traditional concept of the Anahata chakra is a lotus with 12 petals. Each
-“petal” is a vortex spiraling out of the greater vortex or “lotus,” like many
-small tornadoes that group together to form one giant vortex. These petals
-or minor vortexes are known as vrttis- vortexes of mental energy. These
-vrttis vibrate the entire mind and body and qualify them so as to express
-particular states of thought and emotion. Vrttis are the fundamental
-intelligence behind our thoughts and feelings, the hidden programming of
-human cognitive and emotional life. The Anahata Vortex is subtle like the
-higher vortexes with their finer, cognitive tendencies, but at the same time
-has grosser qualities like the lower vortexes that express more instinctual and
-egocentric tendencies.
+I prefer to use the term “vortex” instead of “chakra.” The traditional concept of the Anahata chakra is a lotus with 12 petals. Each
+“petal” is a vortex spiraling out of the greater vortex or “lotus,” like many small tornadoes that group together to form one giant vortex. These petals or minor vortexes are known as vrttis- vortexes of mental energy. These vrttis vibrate the entire mind and body and qualify them so as to express particular states of thought and emotion. Vrttis are the fundamental intelligence behind our thoughts and feelings, the hidden programming of human cognitive and emotional life. The Anahata Vortex is subtle like the higher vortexes with their finer, cognitive tendencies, but at the same time has grosser qualities like the lower vortexes that express more instinctual and egocentric tendencies.
 
 Up until the Anahata Vortex the human being is but a “raging bundle of desire in a dying animal,” to use the words of Yeats.  It was said previously that the Manipura Vortex gives one an intimation of the infinite with its infinite desire for expansion, but falls short of the pure conception by projecting infinite desire on finite objects.  The Manipura at the navel is still governed by ontological hunger with its accompanying cravings, demands, and impositions on the objective world.  It can ask “how?” and then proceed to manipulate and maneuver the external world according to its internal desires, but it lacks the self-reflective conscience to ask “why?” or “what for?” in a deeply moral sense.  The Manipura Vortex is balanced only when it is under the guidance of the more conscious and moral Anahata.  It should be very clear to the reader that much of the present day ills in our materialistic and capitalistic pseudo-culture are due to the over activation and exploitation of the Manipura Vortex. 
 
@@ -103,13 +89,13 @@ fundamental sounds.
 
 The sound “ka” is the first sound at the 12 petaled lotus of Anahata
 Vortex. “Ka" is the first consonant to break out of the causal sound matrix,
-or logos, of Brahma. With this sound vibrates the great idea of hope, that
+or logos, of Shiva. With this sound vibrates the great idea of hope, that
 everything created comes from bliss. At the anahata level of consciousness
 we are so aware of ourselves and our world. It is important that our lives be
 meaningful and useful and move in a spiritual direction. True hope is the
 practical knowledge of “I am That”. The eternal I-Witness, the Atman,
 sustains and guides my every movement. It is knowledge that everything
-that comes my way, comes from Brahma. Eventually this pure movement
+that comes my way, comes from Shiva. Eventually this pure movement
 of “ka” weakens and is distorted, then we put our hope in relative issues, in
 our petty ego, in religion, politics, or the like. Hope is divided by worry,
 doubt, and fear that our meaningful reality structure will not endure. Worry
@@ -166,13 +152,13 @@ will into a force higher than the individual will and egocentric authorship. It
 thereby helps to bring about the realization that the cosmic will is supreme
 and gives one even greater faith in the benevolence of the cosmic moral
 order. This inner, intuitive certainty further inspires one to transcend the
-turmoil and incessant anxiety of a self separated from Brahma, the
+turmoil and incessant anxiety of a self separated from Shiva, the
 Supreme Self.
 
 Worry
 
 While hope gives one the secure conviction that their own welfare is
-dear to Brahma and thereby relieves the perpetual burden of a fearful,
+dear to Shiva and thereby relieves the perpetual burden of a fearful,
 limited self having to pine and struggle to assert its identity by coercing
 and shaping the objective world to its will, worry is exactly the opposite.
 When one is worried or excessively concerned over an event or an inner
@@ -229,10 +215,10 @@ very fine form of matter or prana that manifests its intentions toward form,
 yet being beyond form itself. When completely purified this prana no
 longer needs to vibrate with the vrttis or vortexes of the mind. The breath
 stops completely. One is empty of form, but full of bliss. One hears the
-inner logos of Brahma, all the sounds that make up Om, and sees how fine
+inner logos of Shiva, all the sounds that make up Om, and sees how fine
 vibrations of prana manifest the entire material universe. These rhythmic
 vibrations or “strings" or pulses of prana stem from the “root" sounds of the
-Causal Mind, the logos of Brahma. One day the human genius will be able
+Causal Mind, the logos of Shiva. One day the human genius will be able
 to map and even quantify these fine vibrations that make up the so-called
 “quantum void.” Then, human beings will begin to understand the secrets
 of the dimensions between mind and matter.
@@ -339,7 +325,7 @@ vortexes are a similar though more refined expression of the lower vrttis.
 The vrttis recapitulate themselves in successively higher modus operandi.
 The mind isn’t entering entirely new form as it evolves to higher levels;
 things are just restated in a more subtle way. For example, endeavor isn't
-impulsive like its predecessor, craving [at the Manipura], but both have to
+impulsive like its predecessor, craving (at the Manipura), but both have to
 do with mental expansion. Due to the fact that there are higher, more
 conscious tendencies that correspond to more subtle levels of existence,
 there is by necessity a transmutation of the energy used in the expression
@@ -889,7 +875,7 @@ concepts that qualify the Identity are not so much a bondage but rather a
 means of expression in which the ineffable Infinite Being expresses itself
 through the finite personality. The objective qualities are transparent in
 that the personality no longer clings to outer, conditioned notions for self-
-reference. Here one understands that the infinite Brahma, in itself, is not a
+reference. Here one understands that the infinite Shiva, in itself, is not a
 personality with any qualities. It expresses itself through the finer, subtler
 realms of the relative, created world. Personality or character cannot exist
 for the Infinite without the limitations of finite definitions. Conversely,
@@ -1303,7 +1289,7 @@ While it is true that all actions of the microcosm are compensated with
 reactions, there are some profound patterns in the mind that truly lead the
 microcosm into union. These actions don't rebound with reactions but
 rather dissolve themselves into the Macrocosm. “Be altogether lost in
-Brahma, like an arrow in its target." Because the devoted mind really does
+Shiva, like an arrow in its target." Because the devoted mind really does
 begin to flow and find grace it is received and absorbed into the life of the
 universe, reactions of pain and sorrow begin cease because the ego puts up
 fewer and fewer projections of separation and makes fewer errors based on
@@ -1351,10 +1337,10 @@ many packets of energy, that have been trapped by Shakti's great gravity
 into material form. All the star-stuff that we have taken in through
 digestion, through perception, through ideas and interaction are finally
 brought into the Intuitive Mind and liberated from all form through your
-recognition that only Brahma exists both within and without. We transmute
+recognition that only Shiva exists both within and without. We transmute
 creation into godhead each time we truly remember home. Mind is but the
 entity that regulates the within and the without, the centripetal and
-centrifugal. Macrocosmic mind, or Brahma, sustains and projects the whim
+centrifugal. Macrocosmic mind, or Shiva, sustains and projects the whim
 of the entire cosmological order. Microcosmic mind is what contains and
 projects this whimsical bundle of ideas and impressions in time and space
 with a notion of your person.
