@@ -1,17 +1,19 @@
 ---
 layout: post
 title: The Spiritual Heart
-tags: [The Spiritual Heart]
+tags: 
+  - The Spiritual Heart
 comments: true
+published: true
 ---
+
 
 {% capture images %}
 	/images/hunabku.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 We can begin to understand the reasons for the limitations the egocentric
-“I” notion that distorts the pure reflection of Hunab Ku in the human mind
-by examining the spiritual heart. Within the spiritual heart or Anahata
+“I” notion that distorts the pure reflection of Hunab Ku, the godhead, in the human mind by examining the spiritual heart. Within the spiritual heart or Anahata
 Vortex exist the roots of our divided and fragmented modern consciousness
 but also the qualities of compassion, understanding and unity with the true
 “I” within. Pluma Blanca explained that all of the expressions of the so-
@@ -79,7 +81,7 @@ arrogance, vanity, and selfishness(negative vrttis), and more love,
 discernment and faith (positive vrttis), then the process of the unification of
 the microcosmic consciousness into the Macrocosmic Consciousness of
 Shiva is well under way. It is here in the spiritual heart of Anahata that the
-nameless godhead may evolve a name for itself, for us, within each of us.
+nameless godhead of Hunab Ku may evolve a name for itself, for us, within each of us.
 
 ### The Dynamics of “Ka” and “Kha” through Hope and Worry
 
