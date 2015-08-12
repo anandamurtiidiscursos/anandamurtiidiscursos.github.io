@@ -9,6 +9,7 @@ published: true
 
 
 
+
 {% capture images %}
 	/images/hunabku.jpg
 {% endcapture %}
@@ -36,7 +37,7 @@ egocentric tendencies.
 
 Up until the Anahata Vortex the human being is but a “raging bundle of desire in a dying animal,” to use the words of Yeats.  It was said previously that the Manipura Vortex gives one an intimation of the infinite with its infinite desire for expansion, but falls short of the pure conception by projecting infinite desire on finite objects.  The Manipura at the navel is still governed by ontological hunger with its accompanying cravings, demands, and impositions on the objective world.  It can ask “how?” and then proceed to manipulate and maneuver the external world according to its internal desires, but it lacks the self-reflective conscience to ask “why?” or “what for?” in a deeply moral sense.  The Manipura Vortex is balanced only when it is under the guidance of the more conscious and moral Anahata.  It should be very clear to the reader that much of the present day ills in our materialistic and capitalistic pseudo-culture are due to the over activation and exploitation of the Manipura Vortex. 
 
-  “Anahata” means not harming and it is at this layer of mind that truly rational, self-reflective, compassionate, and judicious human qualities begin to emerge.  It is the vortex located in the center of the chest and is often referred to as the "heart vortex."  It is the fulcrum on which rests the directional flow of the human mind.  Below here the mind moves outward, toward matter.  Here and above the mind can move inward, toward pure Spirit, toward Brahma.
+  “Anahata” means not harming and it is at this layer of mind that truly rational, self-reflective, compassionate, and judicious human qualities begin to emerge.  It is the vortex located in the center of the chest and is often referred to as the "heart chakra."  It is the fulcrum on which rests the directional flow of the human mind.  Below here the mind moves outward, toward matter.  Here and above the mind can move inward, toward pure Spirit, toward Hunab Ku.
 
 The Anahata Vortex is associated with the Intuitive Mind (Vijinanamaya Kosa), the layer of mind associated with intuition and the aerial factor.  Instead of the Anahata Vortex via the Intuitive Mind being associated with the vibration of form, like the Manipura, it is here associated with the vibration of touch or impression.  With the Anahata’s functioning on this higher, elemental level it receives the subtle impressions, in the form of abstract ideas and intuitive feelings, which emanate from objects.  It has the possibility of perceiving a deeper idea of the essence of the object thought or felt upon, be it an object in nature or another living being.   The thought forms or archetypes of the Manipura, creative level are but manifestations of the original, formless ideas as they exist in the Vijinanamaya Kosa. The Intuitive Mind is the realm of pure ideas that Plato, Socrates, and the ancient Greek philosophers inquired about.
 
