@@ -12,6 +12,7 @@ published: true
 
 
 
+
 {% capture images %}
 	/images/hunabku.jpg
 {% endcapture %}
