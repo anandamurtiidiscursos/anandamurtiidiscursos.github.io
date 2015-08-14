@@ -9,7 +9,7 @@ The subject of today’s discourse is “Cult, Inference and Propensity.” The 
 
 Spiritual practice is based on cult: adherence to the doctrine of cult is started and practised in the primordial phase by the doer “I” of all living beings. The doer “I” keeps on thinking, “I am working, I am eating, I am seeing, I do not know anything, I know so many things.”
 
-In living beings other than humans, the doer “I” is not properly expressed, and that is why they cannot establish their individual identity or do spiritual practice. In certain animals like dogs and monkeys, the doer “I” is a bit more expressed or developed than in other creatures. That is why in the future they may also be in a position to do this practice.
+In living beings other than humans, the doer “I” is not properly expressed, and that is why they cannot establish their individual identity or do spiritual practice. In certain animals like dogs and monkeys, the doer “I” is a bit more expressed or developed than in other creatures. That is why in the future they may also be in a position to do this practice .
 
 You should also remember that this doer “I” performs spiritual practice with the help of vital energy, not with the help of positive or negative microvita. In fact, the vital energy accelerates the speed of spiritual progress. Microvita, positive or negative, help the aspirant in his or her movement, but the aspirant cannot utilize the microvita.
 
