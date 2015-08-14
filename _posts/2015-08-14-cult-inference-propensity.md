@@ -1,6 +1,6 @@
 ---
 title: Cult, Inference and Propensity - Anandamurti
-tags: Tantra Social
+tags: [Tantra Social]
 layout: post
 comments: true
 ---
