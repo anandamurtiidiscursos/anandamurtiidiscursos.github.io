@@ -2,8 +2,11 @@
 layout: post
 comment: true
 title: Los Doraditos
-tags: [Spiritual Tantra]
+tags: 
+  - Spiritual Tantra
+published: true
 ---
+
 
 {% capture images %}
 	/images/klee.jpg
@@ -34,6 +37,6 @@ Only to You
 Back to You
 Only to You
 
+music download:
+<a href="https://www.dropbox.com/s/yjj7lgxdjyatjbx/Los%20Doraditos.mp3?dl=0">https://www.dropbox.com/s/yjj7lgxdjyatjbx/Los%20Doraditos.mp3?dl=0</a>
 
-copy and paste link for the music download:    
-https://www.dropbox.com/s/yjj7lgxdjyatjbx/Los%20Doraditos.mp3?dl=0   
