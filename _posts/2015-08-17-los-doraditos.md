@@ -26,19 +26,19 @@ We come down to share grace
 
 Seeing all beings
 
-Whatever tone or hue
+Whatever tone or hue.
 
-Bringing Light of Truth
+Bringing Light of Truth,
 
 Taking every mind
 
-Back to You
+Back to You.
 
-Only to You
+Only to You.
 
 Baba Nam Kevalam.......
 
-One can't hold onto your world
+One can't hold onto your world.
 
 World escapes free,
 
@@ -50,11 +50,9 @@ Through your universe
 
 And turn our golden light
 
-Into purest white
+Into purest white.
 
 As we go
-
-Only to You
 
 Back to You
 
