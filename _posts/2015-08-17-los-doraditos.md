@@ -11,6 +11,7 @@ published: true
 
 
 
+
 {% capture images %}
 	/images/klee.jpg
 {% endcapture %}
@@ -26,7 +27,7 @@ We come down to share grace
 
 Seeing all beings
 
-Whatever tone or hue.
+Whatever tone or hue,
 
 Bringing Light of Truth,
 
@@ -46,7 +47,7 @@ Through one's every word.
 
 Just hear our verse
 
-Through your universe
+Through your universe,
 
 And turn our golden light
 
