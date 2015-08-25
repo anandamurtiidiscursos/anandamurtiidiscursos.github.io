@@ -1,9 +1,13 @@
 ---
-title: Cult, Inference and Propensity - Anandamurti
-tags: [Social Tantra]
+title: "Cult, Inference and Propensity - Anandamurti"
+tags: 
+  - Social Tantra
 layout: post
 comments: true
+published: true
+thumbnail: /images/hunabku.jpg
 ---
+
 
 The subject of today’s discourse is “Cult, Inference and Propensity.” The path that leads or goads the aspirant unto Parama Puruśa is “cult” in the true spirit of the term. Where the goal is something finite, where the pabulum is something limited, the path and the movement cannot be treated as cult.
 
