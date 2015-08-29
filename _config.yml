@@ -26,7 +26,7 @@ background:
 google_analytics:   
 google_verify:      
 https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify: <meta name="msvalidate.01" content="2A6ED56788660DC51505E647AB252A39" />         
+bing_verify: 2A6ED56788660DC51505E647AB252A39        
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
