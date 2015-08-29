@@ -5,18 +5,18 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-#url: http://tantramaya.org
+url: http://tantramaya.org
 
 # Owner/author information
 owner:
   name:           Vishal Eckhart
-  avatar:         avatar.jpg
+  avatar:         hunabku.jpg
   bio:            "Meditator, Writer, Gardener"
-  facebook:        https://facebook.com/chappatieckhart
+ 
   
   # Social networking links used in footer. Update and remove as you like.
  
-  facebook:  https://facebook.com/chappatieckhart
+
   diaspora:  https://diasp.de/people/d7b3c230564e0132bdcf543d7ed6cc36
 
 # Background image to be tiled on all pages
