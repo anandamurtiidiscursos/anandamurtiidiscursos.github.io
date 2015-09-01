@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 comments: true
 layout: page
 title: "A Parapsychologist, Please"
 ---
+
 
 
 
