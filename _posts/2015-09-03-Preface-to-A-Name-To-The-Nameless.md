@@ -1,7 +1,5 @@
 ---
 title: A Name to the Nameless  Preface and Introduction
-tags: 
-  - A Name to the Nameless
 comments: true
 layout: post
 published: true
