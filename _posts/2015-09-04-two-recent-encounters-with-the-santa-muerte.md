@@ -1,13 +1,18 @@
 ---
 layout: post
 title: 2 Recent Encounters With the Santa Muerte
-tags: [Spiritual Tantra]
+tags: 
+  - Spiritual Tantra
 comments: true
+published: true
 ---
+
 
 ### Black Crows
 
 Pluma Blanca arrived at the ranch the other day.  He came just at the right time as I was completely exhausted with the defense of our ranch against the Santa Muerte neighbors.  Whenever these demons kidnap and torture people they turn on a motorcycle without a muffler that is very noisy and covers the screams of the tortured.  I had hardly slept for a week because they turned on that motorcycle every night between midnight and 3 a.m., the traditional "witching hour" when dark occultist have traditionally performed their rights.  Instead of sleeping, I meditated all through these dark hours.
+
+The Santa Muerte is the death cult of some narco groups. They really do practice death rituals. We practice life rituals. They call in their demonic helpers and we call in our friends that sing kiirtan, both embodied and disembodied. Our “dance of the blessed spirits” is to help us create a spiritual vortex of resistance against all forms of degeneration in order to preserve our species, a united human clan existing within the Supreme Consciousneness.
 
 The ranch was recently invaded by a flock of crows.  They come and attack the other birds.  We had almost no birds here in the desert until we dug our trenches to collect rainwater and make a mini oasis.  To me, it seemed a perfect literary image: all of this suffering and death adorned with a final, dreadful touch of black crows that prey on our peaceful dove and sparrow.  It was as if reality is communicating with me through symbols.  Its uncanny, but is it just my imagination?
 
