@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Stories of Pluma Blanca 
-tags: [Spiritual Tantra]
+title: Stories of Pluma Blanca
+tags: 
+  - Spiritual Tantra
 comments: true
+published: true
 ---
+
 
 Pluma Blanca always had a very elevated vibration. When people came near him they would begin to sway in a counter-clockwise direction. Sometimes their heads would begin to tilt and subtly twirl in an almost imperceptible circular motion. He explained that whether you are speaking of the Cosmic Nucleus of Hunab Ku or the Conscious Nucleus of the Atman radiating behind our minds, the movement around either a physical or spiritual nucleus is always a play of the centripetal and centrifugal forces. They have the same dynamics on all planes of being. There are physical vortexes of motion in the physical world where there is the weight and gravity of matter and also vortexes of subtle, mental energy that act and interact with thoughts, feelings, and perceptions. To harmonize the macrocosm with the microcosm, the universe with the individual, one must find this secret flow of Tao both within the mind and in one’s world, planet, and its plants and animals.
 On the outside Pluma Blanca’s ancestors studied the movement of the planets and the natural cycles. This practice was never disconnected to the internal practice of meditation. Meditation is the science of seeing behind all of the vortexes and movements of the human mind. A mind that is pure sees into and understands the movements around Hunab Ku, the Cosmic Nucleus that is within us all. Every human being that has truly searched has seen into this great treasure deep within a balanced human existence. We understand that there is always something pure, eternally renewed when we live in harmony with creation. This inspiration has never abandoned us, only we have forgotten It.
@@ -36,5 +39,11 @@ One woman was particularly rude and pushed him to the edge of his patience. She 
 
 At that moment the racist woman came out of the store and Pluma Blanca began to giggle like a small child. It was as if he had done something naughty and was trying to hide it. A stray dog approached the woman, raised his leg, and soaked her stockings.
 
+### Black Crows
+Pluma Blanca arrived at the ranch the other day. He came just at the right time as I was completely exhausted with the defense of our ranch against the Santa Muerte neighbors. Whenever these demons kidnap and torture people they turn on a motorcycle without a muffler that is very noisy and covers the screams of the tortured. I had hardly slept for a week because they turned on that motorcycle every night between midnight and 3 a.m., the traditional “witching hour” when dark occultists have traditionally performed their rights. Instead of sleeping, I meditated all through these dark hours.
 
+The ranch was recently invaded by a flock of crows. They come and attack the other birds. We had almost no birds here in the desert until we dug our trenches to collect rainwater and make a mini oasis. To me, it seemed a perfect literary image: all of this suffering and death adorned with a final, dreadful touch of black crows that prey on our peaceful dove and sparrow. It was as if reality is communicating with me through symbols. Its uncanny, but is it just my imagination?
 
+Pluma Blanca began beating his drum and shouting in Maya and then chanting “Baba Nam Kevalam.” I ran outside from my meditations and was inspired to go and attack the narco compound with my bare hands, such was the inspiration. He was chasing off the crows. I understood that he saw them as an ominous symbol. He pointed to the crows and then to the direction of the narco compound. I intuitively understood that he saw the crows as a live symbol connected with the narco camp. If we run them off, then we effect those whom they serve. It all made a certain symbolic sense, and I went along with it all in a high state of emotion and put my intellectual questions aside for the moment. At that time we begin to hear the motorcycle. It gets closer and we see a man riding it and shouting like a madman. It was the first time we had seen the motorcycle and the rider leave the compound. We had a chance to look him in the eyes and send him a gaze that penetrated his entire being. He won’t come around any longer.
+
+I have lived with indigenous Mexican for the last 13 years. Although I sometimes doubt their credulity in such magic realities, I have seen so many occasions in which these ideas have lead to the most amazing revelations of truth. Pluma Blanca was a very refined yogi. My wife was his favorite student. He understood all of these practices without superstition and myth and taught very advanced, systematic meditations to understand these “magical realities.”
