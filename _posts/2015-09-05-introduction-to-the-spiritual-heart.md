@@ -32,12 +32,7 @@ In the Anahata there appear to be two hexagons. Really, there is one.
 They seem different because one moves clockwise or centrifugally, and the
 other moves counter-clockwise or centripetally. Here we can see the
 fundamental yin-yang or centrifugal-centripetal interplay of the universe at
-work within the human mind. Together these forces combine to make the Anahata Vortex.  These are 12 points at which the balances
-and imbalances of the human consciousness may express themselves in a
-refined way. When there is perfect balance and there is no escape through
-any vortex or vrtti in the 12 vertices, Shiva (Hunab Ku) always enters the human
-mind through the spiritual heart with its neutral force of consciousness or
-citishakti.  Citishakti is the Consciousness that controls Shakti, creative energy because this divine creative energy has its essence in Shiva, or Consciousness.  Shiva and Shakti are like fire and its capacity to burn; they are completely and eternally inseparable. All creation in this universe is due to the activity of Shakti and the conscious base of Shiva that silently witnesses the play of creation while at the same time offering its being as the essence on which Shakti may create.
+work within the human mind. Together these forces combine to make the Anahata Vortex.  These are 12 points at which the balance and imbalances of the human consciousness may express themselves in a refined way. When there is perfect balance and there is no escape through any vortex or vrtti in the 12 vertices, Shiva (Hunab Ku) always enters the human mind through the spiritual heart with its neutral force of consciousness or citishakti.  Citishakti is the Consciousness that controls Shakti, creative energy because this divine creative energy has its essence in Shiva, or Consciousness.  Shiva and Shakti are like fire and its capacity to burn; they are completely and eternally inseparable. All creation in this universe is due to the activity of Shakti and the conscious base of Shiva that silently witnesses the play of creation while at the same time offering its being as the essence on which Shakti may create.
 
 The right side of the Anahata is dominated by the solar or centrifugal energy of Shakti. The left side of the Anahata is lunar or centripetal Shakti. The centrifugal force under the control of the witnessing entity of Shiva becomes the Son, the primordial creative expression of the Supreme Consciousness within the human and personal medium. It is for this reason that the Vedantic sages meditated on the right
 side of the spiritual heart, the nexus of where the super-personal Atman
