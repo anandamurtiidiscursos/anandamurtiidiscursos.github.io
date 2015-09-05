@@ -50,7 +50,7 @@ fundamental yin-yang or centrifugal-centripetal interplay of the universe at
 work within the human mind. These are 12 points at which the balances
 and imbalances of the human consciousness may express themselves in a
 refined way. When there is perfect balance and there is no escape through
-any vortex or vrtti in the 12 vertices, Hunab Ku always enters the human
+any vortex or vrtti in the 12 vertices, Shiva (Hunab Ku) always enters the human
 mind through the spiritual heart with its neutral force of consciousness or
 citishakti.  Citishakti is the Consciousness that controls Shakti, creative energy because this divine creative energy has its essence in Shiva, or Consciousness.  Shiva and Shakti are like fire and its capacity to burn; they are completely and eternally inseparable. All creation in this universe is due to the activity of Shakti and the conscious base of Shiva that silently witnesses the play of creation while at the same time offering its being as the essence on which Shakti may create.
 
@@ -58,7 +58,7 @@ The right side of the Anahata is dominated by the solar or centrifugal energy of
 side of the spiritual heart, the nexus of where the super-personal Atman
 “touches” the personal and human.
 
-The left side of the Anahata is the "Mother of God", the centripetal energy of Shakti that always brings the expressions of the Son (the centrifugal movement of creation) back to the neutral force of consciousness. The centripetal force never lets the centrifugal force become entirely lost into manifold expression and always brings it back to center. Together, in balance, these binary forces of creation manifest in the human being to the grade that there is a balance in the 12 vortices or vrttis at the 12 vertices of the 2 hexagons. When there is less duplicity,
+The left side of the Anahata is the "Mother of God", the centripetal energy of Shakti that always brings the expressions of the Son (the centrifugal movement of creation) back to the neutral force of Shiva-Consciousness. The centripetal force never lets the centrifugal force become entirely lost into manifold expression and always brings it back to center. Together, in balance, these binary forces of creation manifest in the human being to the grade that there is a balance in the 12 vortices or vrttis at the 12 vertices of the 2 hexagons. When there is less duplicity,
 arrogance, vanity, and selfishness(negative vrttis), and more love,
 discernment and faith (positive vrttis), then the process of the unification of
 the microcosmic consciousness into the Macrocosmic Consciousness of
