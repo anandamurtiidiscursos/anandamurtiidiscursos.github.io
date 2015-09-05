@@ -14,12 +14,12 @@ published: true
 
 
 
+
 {% capture images %}
 	/images/hunabku.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
-By examining the spiritual heart we can begin to understand the reasons for the limitations the egocentric
-“I” notion that distorts the pure reflection of Hunab Ku (or "Shiva" in Indian tantra) in the human mind. Within the Anahata Vortex exist the roots of our divided and fragmented modern consciousness but also the qualities of compassion, understanding and unity with the true “I” within. All of the expressions of the so-called “vortexs” are balanced by the spiritual heart, what yogis call the Anahata Chakra. 
+By examining the spiritual heart we can begin to understand the reasons for the limitations the egocentric “I” notion that distorts the pure reflection of Hunab Ku (or "Shiva" in Indian tantra) in the human mind. Within the Anahata Vortex exist the roots of our divided and fragmented modern consciousness but also the qualities of compassion, understanding and unity with the true “I” within. All of the expressions of the so-called “vortexs” are balanced by the spiritual heart, what yogis call the Anahata Chakra. 
 
 I prefer to use the term “vortex” instead of “chakra.” The traditional concept of the Anahata chakra is a lotus with 12 petals. Each
 “petal” is a vortex spiraling out of the greater vortex or “lotus,” like many small tornadoes that group together to form one giant vortex. These petals or minor vortexes are known as vrttis- vortexes of mental energy. These vrttis vibrate the entire mind and body and qualify them so as to express particular states of thought and emotion. Vrttis are the fundamental intelligence behind our thoughts and feelings, the hidden programming of human cognitive and emotional life. The Anahata Vortex is subtle like the higher vortexes with their finer, cognitive tendencies, but at the same time has grosser qualities like the lower vortexes that express more instinctual and egocentric tendencies.
