@@ -48,3 +48,7 @@ arrogance, vanity, and selfishness(negative vrttis), and more love,
 discernment and faith (positive vrttis), then the process of the unification of
 the microcosmic consciousness into the Macrocosmic Consciousness of
 Shiva is well under way. It is here in the spiritual heart of Anahata that the nameless, transcendental godhead may evolve a name for itself, for us, within each of us.
+
+entire work of The Spiritual Heart on this site: http://tantramaya.org/the-spiritual-heart/
+
+or download The Spiritual Heart here:  https://cmdr0.blaucloud.de/index.php/s/VZXchJaawWf93SI
