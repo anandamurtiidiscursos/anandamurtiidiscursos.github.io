@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 title: "Introduction to \"The Spiritual Heart\""
 comments: true
 ---
+
 
 By examining the spiritual heart we can begin to understand the reasons for the limitations the egocentric “I” notion that distorts the pure reflection of pure and infinite consciousness ("Hunab Ku" in Tantra Maya or "Shiva" and "Atman" in Indian tantra) in the human mind. Within the spiritual heart exist the roots of our divided and fragmented modern consciousness but also the qualities of compassion, understanding and unity with the true “I” within. All of the expressions of the so-called “vortexs” are balanced by understanding the spiritual heart, what yogis call the Anahata Chakra. 
 
