@@ -32,7 +32,7 @@ In the Anahata there appear to be two hexagons. Really, there is one.
 They seem different because one moves clockwise or centrifugally, and the
 other moves counter-clockwise or centripetally. Here we can see the
 fundamental yin-yang or centrifugal-centripetal interplay of the universe at
-work within the human mind. These are 12 points at which the balances
+work within the human mind. Together these forces combine to make the Anahata Vortex.  These are 12 points at which the balances
 and imbalances of the human consciousness may express themselves in a
 refined way. When there is perfect balance and there is no escape through
 any vortex or vrtti in the 12 vertices, Shiva (Hunab Ku) always enters the human
