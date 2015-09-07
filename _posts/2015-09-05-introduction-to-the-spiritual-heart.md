@@ -6,6 +6,7 @@ comments: true
 ---
 
 
+
 By examining the spiritual heart we can begin to understand the reasons for the limitations the egocentric “I” notion that distorts the pure reflection of pure and infinite consciousness ("Hunab Ku" in Tantra Maya or "Shiva" and "Atman" in Indian tantra) in the human mind. Within the spiritual heart exist the roots of our divided and fragmented modern consciousness but also the qualities of compassion, understanding and unity with the true “I” within. All of the expressions of the so-called “vortexs” are balanced by understanding the spiritual heart, what yogis call the Anahata Chakra. 
 
 I prefer to use the term “vortex” instead of “chakra.” The traditional symbol of the Anahata chakra is a lotus flower with 12 petals. Each “lotus petal” is literally a subtle energetic vortex spiraling out of the greater vortex or “lotus,” like many small tornadoes that group together to form one giant vortex. These petals or minor vortexes are known as vrttis- vortexes of mental energy. These vrttis vibrate the entire mind and body and qualify them so as to express particular states of thought and emotion. Vrttis are the fundamental intelligence behind our thoughts and feelings, the hidden programming of human cognitive and emotional life that vibrate the entire mind-body system. The Anahata Vortex is subtle like the higher vortexes with their finer, cognitive tendencies, but at the same time has grosser qualities like the lower vortexes that express more instinctual and egocentric tendencies.
@@ -44,6 +45,6 @@ discernment and faith (positive vrttis), then the process of the unification of
 the microcosmic consciousness into the Macrocosmic Consciousness of
 Shiva is well under way. It is here in the spiritual heart of Anahata that the nameless, transcendental godhead may evolve a name for itself, for us, within each of us.
 
-entire work of The Spiritual Heart on this site: http://tantramaya.org/the-spiritual-heart/
+entire work of The Spiritual Heart on this site: <a href="http://tantramaya.org/the-spiritual-heart/">http://tantramaya.org/the-spiritual-heart/</a>
 
-or download The Spiritual Heart here:  https://cmdr0.blaucloud.de/index.php/s/VZXchJaawWf93SI
+or download The Spiritual Heart here:  <a href="https://cmdr0.blaucloud.de/index.php/s/VZXchJaawWf93SI">https://cmdr0.blaucloud.de/index.php/s/VZXchJaawWf93SI</a>
