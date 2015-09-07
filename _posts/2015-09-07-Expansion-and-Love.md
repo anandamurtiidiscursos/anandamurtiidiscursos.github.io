@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 title: The Dynamics of “Ga” and “Gha” through Expansion and Love
 comments: true
 ---
+
 
 
 ### The Dynamics of “Ga” and “Gha” through Expansion and Love
@@ -239,4 +240,3 @@ end there is but one Friend, in many colors and in many places, who moves
 through infinite love behind all our faces.
 
 full text download: <a href="https://cmdr0.blaucloud.de/index.php/s/VZXchJaawWf93SI">https://cmdr0.blaucloud.de/index.php/s/VZXchJaawWf93SI</a>
-
