@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: The Dynamics of “Ga” and “Gha” through Expansion and Love
+title: The Dynamics of “Ga” and “Gha” through Expansion and Love - from The Spiritual Heart
 comments: true
 ---
 
