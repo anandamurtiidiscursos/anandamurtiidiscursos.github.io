@@ -3,9 +3,12 @@ title: Spaces and Places
 tags: Spiritual Tantra
 comments: true
 layout: post
---- 
+published: true
+---
 
-Everything we experience in human life is an expression of the Macrocosm. Whether one calls the Macrocosm “Brahma”, or “Tao”, or a “Unified Quantum Field”, it is the source and ground of our physical, mental and spiritual being. The source of the Macrocosm is purely spiritual, It is pure Consciousness. When you are quiet, this infinity is yours. The mental part of the macrocosm only faintly manifests in human intelligence. When humans become more intelligent they will have then merged a little deeper into the mental and spiritual aspects of the Macrocosm. Only the outer reflection of this pure and unified web of being is material. It is material and separate only in our minds, however. One can have a spiritual experience of the physical world of matter and form and still not be convinced of the absoluteness of matter. Form is but a manifestation of spirit.
+ 
+
+Everything we experience in human life is an expression of the Macrocosm. Whether one calls the Macrocosm “Brahma”, or “Tao”, or a “Unified Quantum Field”, it is the source and ground of our physical, mental and spiritual being. The source of the Macrocosm is purely spiritual, It is pure Consciousness; the silent I-Witness of the mind. When you are quiet, this infinity is yours. The mental part of the macrocosm only faintly manifests in human intelligence. When humans become more intelligent they will have then merged a little deeper into the mental and spiritual aspects of the Macrocosm. Only the outer reflection of this pure and unified web of being is material. It is material and separate only in our minds, however. One can have a spiritual experience of the physical world of matter and form and still not be convinced of the absoluteness of matter. Form is but a manifestation of spirit.
 
 Everything and everyone has deep, reserve parts of their being that are latent and only waiting to manifest when the external ego is a little more mature and calm. A person who has lived away from civilization for many years returns to see the world of form and matter. His physical world has become the mountain, river, sky, and body. They all secretly speak of spirit, however. He remembers the old forms of cars and malls and wars and all of the dread of material existence. They only seem a little more dead now.
 
