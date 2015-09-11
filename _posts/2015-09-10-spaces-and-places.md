@@ -1,10 +1,12 @@
 ---
 title: Spaces and Places
-tags: Spiritual Tantra
+tags: 
+  - Spiritual Tantra
 comments: true
 layout: post
 published: true
 ---
+
 
 
 
