@@ -1,5 +1,5 @@
-title:            Vishal Eckhart 
-description:      Tantra Maya Blog
+title:            Tantra Maya 
+description:      Vishal Eckhart 
 disqus_shortname: tantramaya
 reading_time:     true
 words_per_minute: 200
@@ -10,14 +10,17 @@ url: http://tantramaya.org
 # Owner/author information
 owner:
   name:           Vishal Eckhart
-  avatar:         avatar.jpg
+  avatar:         hunabku.jpg
   bio:            "Meditator, Writer, Gardener"
  
   
   # Social networking links used in footer. Update and remove as you like.
  
 
-  diaspora:  https://diasp.de/people/d7b3c230564e0132bdcf543d7ed6cc36
+  facebook: tantramaya
+#  email: vishal@tantramaya.org
+  
+  
 
 # Background image to be tiled on all pages
 background: 
@@ -29,7 +32,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Chicago
 future:      true
 highlighter: pygments
 markdown:    kramdown
