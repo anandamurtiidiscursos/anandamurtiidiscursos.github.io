@@ -7,4 +7,4 @@ comments: true
 {% capture images %}
 	/images/relampago.png
 {% endcapture %}
-{% include gallery images=images caption="" cols=3 %}
+{% include gallery images=images caption="Relampagokrieg" cols=3 %}
