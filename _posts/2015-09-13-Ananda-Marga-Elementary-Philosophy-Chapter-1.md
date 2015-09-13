@@ -3,12 +3,8 @@ published: true
 ---
 
 
----
-layout: post
-title: Ananda Marga: Elementary Philosophy Chapter 1- What is Dharma?
-tags: Anandamurti
-comments: true
----
+
+
 ### Ch. 1 What Is Dharma?
 
 Human beings are the highest-evolved beings. They possess clearly-reflected consciousness, and this makes them superior to animals. No other being has such a clear reflection of consciousness. Human beings can distinguish between good and bad with the help of their consciousness, and when in trouble they can find a way out, with its help. No one likes to live in misery and suffering, far less human beings, whose consciousness can find means of relief. Life without sorrow and suffering is a life of happiness and bliss, and that is what people desire. Everyone is in quest of happiness; in fact it is people’s nature to seek happiness. Now let us see what one does to achieve it and whether it is achieved by those means.
