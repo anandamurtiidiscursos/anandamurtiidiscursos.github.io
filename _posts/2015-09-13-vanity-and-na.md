@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Vanity and “na”
 tags: 
   - Spiritual Tantra
