@@ -1,6 +1,4 @@
 ---
-title: Ananda Marga: Elementary Philosophy 
-layout: page
 tags: Anandamurti
 comments: true
 ---
