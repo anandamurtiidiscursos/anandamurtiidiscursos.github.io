@@ -412,7 +412,7 @@ Human beings have the power of discrimination as they possess a fully-reflected 
 The aim of Saguńa Brahma is to liberate each of Its units, and that is the only reason It made this vast creation. Everyone will gain emancipation sooner or later, as that is the wish of the Lord. It may happen soon or may come about after an indefinite period. The only way to gain emancipation is through sádhaná, and so everyone will have to begin sádhaná one day in their search for liberation from the bondage of creation. The wise should therefore start sádhaná as soon as possible and gain emancipation quickly. They realize that to delay is to suffer unnecessarily under the bondage of creation, which is not their permanent home. To regard a transit camp as one’s home and suffer the rigours and difficulties of the camp is foolish: knowing that this is not the final goal and that one has no right to stay here permanently, it seems sensible to make an effort to leave as soon as possible. Everyone has to reach his or her goal some time. It is imperative for everyone to achieve emancipation quickly by practising sádhaná. This is our permanent duty.
 1955
 
-### Ch.10 Why Are People Afraid of Intuitional Practice?
+### Ch.9 Why Are People Afraid of Intuitional Practice?
 
 Intuitional practice, sádhaná, is the fundamental duty of everyone. Yet very few people perform this duty. Ordinarily people are afraid of doing sádhaná. It is fear that keeps them from doing intuitional practice. But how far their fear is justified remains to be seen.
 
