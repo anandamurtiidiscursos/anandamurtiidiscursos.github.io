@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 --- 
 title: Ananda Marga Elementary Philosophy - Anandamurti
