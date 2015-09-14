@@ -1,14 +1,14 @@
 ---
 published: true
+title: "Ananda Marga Elementary Philosophy - Anandamurti"
+layout: post
+tags: Anandamurti
+comments: true
 ---
 
 
---- 
-title: Ananda Marga Elementary Philosophy - Anandamurti
-layout: post 
-tags: Anandamurti 
-comments: true 
----
+
+
 
 ### Ch.1 What Is Dharma?
 
