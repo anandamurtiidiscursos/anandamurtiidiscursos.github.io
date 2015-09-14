@@ -1,5 +1,9 @@
+---
+published: false
+---
+
 --- 
-title: Ananda Marga: Elementary Philosophy 
+title: Ananda Marga Elementary Philosophy - Anandamurti
 layout: post 
 tags: Anandamurti 
 comments: true 
@@ -437,5 +441,3 @@ On careful analysis, the fears that hold one back from practising sádhaná ap
 
 
 © Copyright 2001, 2006 Ánanda Márga Pracáraka Saḿgha (Central) All Rights Reserved
-
-
