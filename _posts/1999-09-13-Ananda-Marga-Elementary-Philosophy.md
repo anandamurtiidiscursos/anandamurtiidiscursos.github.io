@@ -1,9 +1,14 @@
---- 
-title: Ananda Marga: Elementary Philosophy 
-layout: post 
-tags: Anandamurti 
-comments: true 
 ---
+published: true
+title: "Ananda Marga Elementary Philosophy - Anandamurti"
+layout: post
+tags: Anandamurti
+comments: true
+---
+
+
+
+
 
 ### Ch. 1 ¿Qué Es el Dharma?
 
@@ -210,6 +215,7 @@ Saguńa Brahma wants, but is not able to, obtain the nirguńa state for unit c
 
 Consciousness in humans is a reflection on the mental plate, needing an ádhára or body made of the five rudimental factors originating from Saguńa Brahma, but the Cosmic Consciousness is not dependent on any ádhára or body. Saguńa Brahma or the Qualified Supreme Entity has no body like that of a human being. Humans are a thought-projection of Saguńa Brahma and exist within Its mind. Saguńa Brahma could also have had a body like a human if It had existed within the mind of another entity and come into being as its thought-projection. Saguńa Brahma is non-causal. It has no beginning and no end. As such It cannot exist in the mind of another entity and acquire a body. Consciousness in humans is only a reflection of Cosmic Consciousness, while the consciousness of Saguńa Brahma is Cosmic Consciousness Itself. Humans also receive antahkarańa (introversial psychic force) like Saguńa Brahma. But a human being’s mind is only a unit of the Cosmic Mind of Saguńa Brahma, just as his or her consciousness is only a multiplicity of Cosmic Consciousness. Humans can also create in their thought-waves in the same way as Saguńa Brahma created the universe in Its thought-waves. We saw earlier that Rama’s capacity to create Chowringhee in his imagination or thought-waves while sitting in Bhagalpur is only momentary and appears real only to him. On the other hand, Saguńa Brahma’s creation of the universe appears real and is not momentary. This is so because humans, being a part of Its creation formed as the thought-projection of Saguńa Brahma, have a relative existence together with the rest of creation. The Cosmos or Saguńa Brahma looks upon Its thought-projection as real, and the unit within naturally has to feel it as real. Humans, therefore, consider the thought-projection of the Qualified Supreme Entity and Its creation, the universe, to be a reality. While Rama’s mind and its projection in imagination is limited, within which Shyama’s mind does not work, the imagined objects formed in Rama’s mind can be seen and considered real by him only for the time the spell of his imagination lasts. Shyama’s mind does not exist within Rama’s mind and hence the former does not find these objects real. Had Shyama’s mind existed within Rama’s mind, the former would have seen Chowringhee created in the thought-waves of the latter’s mind and, like Rama, would have also considered the imaginary creation of Chowringhee to be factual. For instance, we have seen earlier that a person can extend or project his or her mind to bring the minds of others within its scope. At that time others also see that person’s imagination and consider it to be real like the magician’s rope trick. Thus human beings can also create objects in their thought-waves, but they are only replicas of their previous experience. They must see or hear about the object which they create in their imagination. As Brahma is non-causal, nothing existed before or beyond It to enable It to copy any object in Its thought-waves. Hence the thought-projections of Brahma are always new. They are not and cannot be based on past experience like the imagination of human beings. The last and most important difference between Brahma and human beings is the difference in their characteristic property, or dharma. The dharma of human beings is to do sádhaná and become a muktapuruśa (emancipated being), while that of Saguńa Brahma is to provide an opportunity to each and every one of its units to become a muktapuruśa. In fact all the effort and trouble of the Qualified Supreme Entity in creating the universe and the human beings in it is directed only towards the purpose of emancipating every one of Its units.
 1955
+
 ### Ch.4 Who Am I and What Am I?
 
 Human beings form the last stage in the evolutionary ladder of the creation. In human beings consciousness is fully and clearly reflected in a physical body made of the five rudimental factors derived from the Cosmic body of the Qualified Supreme Entity (Saguńa Brahma). This clear reflection of consciousness is unit consciousness (átman), and the physical body of the five factors which receives this reflection is called the human body. Thus a human being has unit consciousness (átman) and body. Being the possessor of these two shows that a human being is neither of these. If human beings were átman (unit consciousness) they could not claim it as their átman, and alternatively were they bodies only, they could not say, “This is my body.” They are different from these two. There is some other entity in human beings which claims the possession of átman and body. That other entity appears to be the owner of átman and the body. What then is that other entity?
@@ -223,7 +229,8 @@ The “I” entity of human beings is buddhitattva, which is subtler than ahaḿ
 Unit consciousness or átman is reflected only when there is a physical body made of the five rudimental factors of the Macrocosm. Buddhitattva comes into being as a result of the influence of sentient Prakrti on unit consciousness, and so buddhitattva, or the feeling of “I”, is also dependent on the physical body. Since Buddhitattva pervades every bit of the body, one feels the presence of “I” in every part of the body and is prone to identify this “I” with the body. It has, however, been explained earlier that this feeling of “I” and the body are not the same entity. They are different – the feeling of “I” is buddhitattva, and the physical body merely forms a shelter (ádhára) for it.
 
 A human being’s feeling of “I” is thus neither his or her unit consciousness nor his or her body; it is only the mental creation of unit consciousness, termed as buddhitattva, and this “I” is further manifested as the other two functional forms of mind – ahaḿtattva (ego) and citta.
-1955
+
+
 
 
 ### Ch.5 What Is My Relation with the Universe and the Cosmic Entity?
@@ -409,7 +416,7 @@ Human beings have the power of discrimination as they possess a fully-reflected 
 The aim of Saguńa Brahma is to liberate each of Its units, and that is the only reason It made this vast creation. Everyone will gain emancipation sooner or later, as that is the wish of the Lord. It may happen soon or may come about after an indefinite period. The only way to gain emancipation is through sádhaná, and so everyone will have to begin sádhaná one day in their search for liberation from the bondage of creation. The wise should therefore start sádhaná as soon as possible and gain emancipation quickly. They realize that to delay is to suffer unnecessarily under the bondage of creation, which is not their permanent home. To regard a transit camp as one’s home and suffer the rigours and difficulties of the camp is foolish: knowing that this is not the final goal and that one has no right to stay here permanently, it seems sensible to make an effort to leave as soon as possible. Everyone has to reach his or her goal some time. It is imperative for everyone to achieve emancipation quickly by practising sádhaná. This is our permanent duty.
 1955
 
-### Ch.10 Why Are People Afraid of Intuitional Practice?
+### Ch.9 Why Are People Afraid of Intuitional Practice?
 
 Intuitional practice, sádhaná, is the fundamental duty of everyone. Yet very few people perform this duty. Ordinarily people are afraid of doing sádhaná. It is fear that keeps them from doing intuitional practice. But how far their fear is justified remains to be seen.
 
@@ -434,5 +441,3 @@ On careful analysis, the fears that hold one back from practising sádhaná ap
 
 
 © Copyright 2001, 2006 Ánanda Márga Pracáraka Saḿgha (Central) All Rights Reserved
-
-

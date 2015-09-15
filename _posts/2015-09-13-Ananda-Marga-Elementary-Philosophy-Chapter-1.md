@@ -1,10 +1,11 @@
 ---
 published: true
-title: "Anandamurti - Ananda Marga Elementary Philosophy - Chapter 1 - What is Dharma?"
+title: "Ananda Marga Elementary Philosophy  Ch.1 - Anandamurti"
 tags: Anandamurti
 comments: true
 layout: post
 ---
+
 
 
 ### Ch. 1 What Is Dharma?
@@ -55,3 +56,4 @@ Every action is bound to have a result in the end. For example, when you look at
 
 In the preceding paragraphs it was established by logic and reasoning that it is only unit consciousness which, under the influence of the different principles of its Prakrti, gradually manifests itself as citta, and as a result of this, mind comes into being. The existence of unit consciousness is essential for mind, which is only a gradual manifestation of unit consciousness under the qualifying influence of Prakrti. Mind, in fact, cannot be formed without the presence of átman or unit consciousness. But we know that mind is present in every individual. Hence átman or unit consciousness is also present in every individual. There are innumerable individuals in this universe, and as átman or unit consciousness is reflected in each one, there appear to be many átmans or unit consciousnesses. The collective name for all these átmans or unit consciousnesses is Paramátman, Bhúmácaetanya, Brahma or Bhagaván. Just as twelve units make a dozen, twenty make a score, and the collective name for a very large number of soldiers is an army, the collective name for all the unit consciousnesses is Paramátman, Bhúmácaetanya or Bhagaván. The name Bhagaván should not be construed as a mighty human figure with powerful hands and feet. It is the collection of all our átmans. The nearest word in English which may be used for átman or unit consciousness is “soul”, so Bhagaván may also be called Universal Consciousness or Universal Soul. This shows that Bhagaván does exist and that It exists as Paramátman or Universal Soul, Bhúmácaetanya or Cosmic Consciousness, or Brahma, the Eternal Blessedness.
 1955
+Download all Anandamurti publications:   <a href="https://cmdr0.blaucloud.de/index.php/s/juHPQAnDa2yaWor">https://cmdr0.blaucloud.de/index.php/s/juHPQAnDa2yaWor<a/>
