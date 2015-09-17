@@ -3,10 +3,6 @@ published: true
 ---
 
 
-
-Como un devoto debe comportarse?
-26 December 1978, Kalikata
-
 Trn´a´dapi suniicena taroriva sahis´nun´a
 Ama´ninam´ ma´nadeyam´ kiirtaniiyah sada´ harih.
 
@@ -71,3 +67,4 @@ Pa´piider sa´dhya na´i tata pa´p kare.
 Por que? Bueno, El solo los roba. De otra manera que habria sido de esas personas?Nada. Kalya´n´amastu [“Que haya bienestar”]. ]]
 
 -Anandamurtii-
+26 December 1978, Kalikata
