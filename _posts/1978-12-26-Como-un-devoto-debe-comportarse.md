@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 
 Como un devoto debe comportarse?
