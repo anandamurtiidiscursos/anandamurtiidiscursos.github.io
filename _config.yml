@@ -1,24 +1,24 @@
-title:            Tantra Maya 
-description:      Vishal Eckhart
-disqus_shortname: tantramaya
+title:            Anandamurtii Discursos 
+description:      
+disqus_shortname: anandamurtiidiscursos
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: http://tantramaya.org
+url: http://anandamurtiidiscursos.github.io
 
 # Owner/author information
 owner:            
-  name:           Vishal Eckhart
+  name:           hunben
   avatar:         avatar.jpg
-  bio:            "Meditator, Writer, Gardener"
+  bio:            ""
  
   
   # Social networking links used in footer. Update and remove as you like.
  
 
-  facebook: tantramaya
-  email: vishal@tantramaya.org
+  facebook: 
+  email: anandamurtiidiscursos@gmail.com
   
   
 
