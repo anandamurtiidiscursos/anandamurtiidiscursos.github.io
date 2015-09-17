@@ -10,10 +10,11 @@ published: true
 
 
 
+
 {% capture images %}
 	/images/4directions.jpg
 {% endcapture %}
-{% include gallery images=images caption="" cols=3 %}
+{% include gallery images=images caption=" " cols=3 %}
 
 Tantra Maya is a synthesis between the ancient spiritual practices of the Maya and the modern tantra philosophy of Ananda Marga.  My wife was a student of Quetzal Manik, a Mayan healer and yogi from Campeche.  She literally interprets "maya" as the spiritual practices of the mayan people.  I interpret "maya" according to the Sanskrit definition: the divine mystery of how the infinite being hides itself in the finite realm through each and every being only to eventually desire a return to a state of essential oneness with the infinite consciousness.  Tantra Maya is therefore the advanced and experimental study of Tantra as a universal intuitive science as well as a system of Mayan meditation.  The Tantra Maya healing and meditation practices are remarkably similar to the oriental practices of Tantra Yoga.  
 
