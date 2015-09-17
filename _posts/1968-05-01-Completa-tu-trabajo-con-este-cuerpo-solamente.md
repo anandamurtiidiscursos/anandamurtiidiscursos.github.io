@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 Va´sa´m´si jiirn´ani yatha´ viha´ya nava´ni grhn´a´ti naro’para´n´i;
 Tatha´ shariira´ni viha´ya jiirn´a´nya´ni sam´ya´ti nava´ni dehii.(1)
