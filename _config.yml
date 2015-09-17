@@ -1,5 +1,5 @@
 title:            Tantra Maya 
-description:       
+description:      Vishal Eckhart
 disqus_shortname: tantramaya
 reading_time:     true
 words_per_minute: 200
@@ -8,7 +8,7 @@ words_per_minute: 200
 url: http://tantramaya.org
 
 # Owner/author information
-owner:
+owner:            Vishal Eckhart
   name:          
   avatar:         avatar.jpg
   bio:            "Meditator, Writer, Gardener"
@@ -18,7 +18,7 @@ owner:
  
 
   facebook: tantramaya
-#  email: vishal@tantramaya.org
+  email: vishal@tantramaya.org
   
   
 
