@@ -28,6 +28,7 @@ published: true
 
 
 
+
 {% for post in paginator.posts %}
 <article class="hentry">
     <header>
@@ -42,7 +43,7 @@ published: true
       <span class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
         {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}
-        Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
+        Reeading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
       </span><!-- /.entry-reading-time -->
       {% endif %}
     </div><!-- /.entry-meta -->
@@ -92,4 +93,3 @@ published: true
     Next
   {% endif %}
 </div><!-- /.pagination -->
-
