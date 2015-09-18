@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 En un capitulo anterior, “Vida, Muerte y Sam'ska'ra”, se mostró que con la ayuda de Su Citishakti la Consciencia Cósmica actuá como la entidad atestiguante. La longitud de onda de esta Citishakti es infinita, y por lo tanto decimos que esta fluye en una linea recta. Cuando la mente o manah toma el a'tman – la entidad atestiguante de la mente individual – como su objeto Así llamado (esto debe ser hecho con una entrega completa – no hay otra manera por que en realidad la mente es el objeto del  a'tman) , las ondas mentales lograran fortalecerse gradualmente.
 
