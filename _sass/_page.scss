@@ -349,9 +349,9 @@ header .entry-meta {
 // Post Index 
 // --------------------------------------------------
 #post-index {
-	#main {
         zoom: 175%;
-		margin: 40px 2px 20px 2px;
+	#main {
+        margin: 40px 2px 20px 2px;
 		@media #{$medium} {
 			margin-left: 20px;
 			margin-right: 20px;
