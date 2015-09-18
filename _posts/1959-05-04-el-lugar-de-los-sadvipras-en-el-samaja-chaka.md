@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 Los seres humanos primitivos no tenían sociedad y el completo establecimiento era individualista. Aun el concepto de familia estaba ausente. La vida era bruta y no-intelectual. La naturaleza era la morada directa y la fuerza física regia el día. El mas fuerte disfrutaba a costa del débil, quien tenia que rendirse ante la voracidad de las gigantes físicos. Sin embargo, el sentido de adquisición no había sido desarrollado en ellos, y ellos trabajaban manualmente, y no había explotación intelectual en esa era. Así la vida era bruta, pero no brutal.
 
