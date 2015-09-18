@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 Espiritualidad no es un ideal utópico sino una filosofía practica que puede ser practicada y realizada en la vida diaria, sin importar que tan mundana sea. La espiritualidad se presenta para la evolución y elevación, y no para superstición en acción o pesimismo. Todas las tendencias desintegradoras y las filosofías de grupo o clan que tienden a crear las cadenas de estrechez mental no están en ningún camino conectadas con la espiritualidad y deberán ser disuadidas. Aquello que conduce a la amplitud de lo unisono deberá ser aceptado. La filosofía espiritual no reconoce ninguna distinción ni diferenciación innatural hecha entre un ser humano y otro, y permanece para fraternidad universal.
 
