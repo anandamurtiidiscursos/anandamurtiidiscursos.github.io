@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 Mente: En el proceso de saincara, la entidad trascendental Purus'a, bajo la influencia local de Sus principios inmanentes, es transformada en Mahattattva, Aham'tattva y citta. En las primeras dos etapas el cautiverio, siendo teoretico en naturaleza – esto es, el movimiento o vibración estando sin restricción por los factores relativos de tiempo, espacio y persona – no esta al alcance de la percepción. Pero en la tercer etapa, El, bajo la influencia del principio estático, es convertido en el “Yo” objetivo y este “Yo” objetivado entra en la jurisdicción de la autopercepción. Mente es una coordinación de los tres factores mencionados, esto es, el Mahattattva, Aham'tattva y citta. En el proceso de pratisaincara, la materia mas cruda, por la división y conversión, consigue metamorfosearse en factores mas sutiles y la mente individual es creada. La sustancia de la mente individual es la misma que la de la Mente Cósmica. La Mente Cósmica. es formada en el proceso de saincara bajo la influencia de las tendencias innatas, mientras la mente individual es creada en el proceso de pratisaincara bajo la influencia de los cristales beligerentes de el Macrocosmo.
 
