@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 Saccida'nanda es derivada de una conversión de tres términos, que son: sat, cit, y a'nanda. Estos son a menudo traducidos como “existencia”, “conocimiento” y “gracia”. Esto no es una terminología aproximada sino incorrecta.
 
