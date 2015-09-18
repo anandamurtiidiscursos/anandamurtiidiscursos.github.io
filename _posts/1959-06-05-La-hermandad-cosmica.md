@@ -4,6 +4,7 @@ published: true
 
 
 
+
 Espiritualidad no es un ideal utópico sino una filosofía practica que puede ser practicada y realizada en la vida diaria, sin importar que tan mundana sea. La espiritualidad se presenta para la evolución y elevación, y no para superstición en acción o pesimismo. Todas las tendencias desintegradoras y las filosofías de grupo o clan que tienden a crear las cadenas de estrechez mental no están en ningún camino conectadas con la espiritualidad y deberán ser disuadidas. Aquello que conduce a la amplitud de lo unisono deberá ser aceptado. La filosofía espiritual no reconoce ninguna distinción ni diferenciación innatural hecha entre un ser humano y otro, y permanece para fraternidad universal.
 
 En el ambiente presente muchas tendencias desintegradoras están trabajando para dividir la humanidad en grupos beligerentes-mutuos. La espiritualidad debe inculcar sentido en la psicología humana, y desarrollar una afinidad natural entre estas especies de la creación. El acercamiento a la espiritualidad deberá ser psicológico y racional, y debería ofrecer una llamada conmovedora a lo mas profundo de los sentimientos psíquicos de los seres humanos. Los seres humanos deberían apreciar por un análisis racional su relación con la Entidad Cósmica y reconocer la mas benévola bondad de la Entidad mas amada. La espiritualidad deberá conducir a los seres humanos a la única verdad Cósmica de donde ellos mismos han derivado, * y la cual es el ultimo destino. Ese ultimo y absoluto ideal es el ideal Cósmico – un ideal mas allá del alcance del tiempo, lugar y persona. Este es el Absoluto, mas allá de la relatividad y sin ella. Este posa con su propio lustre para todos los tiempos y para cada factor de el Cosmos, podría ser un ser humano o un animal menos desarrollado. El ideal Cósmico solo puede ser la fuerza unificadora que fortalecerá a la humanidad para romper las ataduras y abolir todas las estrechas paredes internas de tendencias desintegradoras.
@@ -62,4 +63,7 @@ Los principios de Prout dependen en los siguientes factores fundamentales:
 Por tanto, nuestra es la Teoría de Utilización Progresiva (Prout).
 
 
-*Seres individuales, o jiiva'tmans, son derivados de el Ser Cósmico. Ver p.16 para una discusión de la reunión de los dos. -Eds.
+*Seres individuales, o jiiva'tmans, son derivados de el Ser Cósmico. Ver p.16 para una discusión de la reunión de los dos. -Ed.
+
+- Anandamurtii -
+
