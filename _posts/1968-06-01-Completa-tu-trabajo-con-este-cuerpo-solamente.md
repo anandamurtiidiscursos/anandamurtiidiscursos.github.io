@@ -4,12 +4,13 @@ published: true
 
 
 
+
 Va´sa´m´si jiirn´ani yatha´ viha´ya nava´ni grhn´a´ti naro’para´n´i;
 Tatha´ shariira´ni viha´ya jiirn´a´nya´ni sam´ya´ti nava´ni dehii.(1)
 
 "Cuando las ropas se vuelven viejas y andrajosas, estas se reemplazan por unas nuevas.Esta es la ley. A nadie le gusta vestir con ropa vieja, maltratada y sucia. Similarmente, cuando el cuerpo se convierte en viejo e inservible, este es cambiado por uno nuevo.”
 
-El cuerpo envejece debido al trabajo o actividad. Uno tiene que marchar en cada fraccion de segundo en la vida personal. Marchando solo hacia adelante uno se puede establecer en dharma. Aquellos que pueden mover, ni caminar, son como cadaveres; su lugar no esta en la sociedad, sino en el crematorio. Ellos son pa´piis [pecadores], antisociales.
+El cuerpo envejece debido al trabajo o actividad. Uno tiene que marchar en cada fraccion de segundo en la vida personal. Marchando solo hacia adelante uno se puede establecer en dharma. Aquellos que no pueden moverse, ni caminar, son como cadaveres; su lugar no esta en la sociedad, sino en el crematorio. Ellos son pa´piis [pecadores], antisociales.
 
 Existe movimiento en las 3 esferas de la vida -fisica, mental y espiritual.
 
