@@ -8,16 +8,16 @@ published: true
 Va´sa´m´si jiirn´ani yatha´ viha´ya nava´ni grhn´a´ti naro’para´n´i;
 Tatha´ shariira´ni viha´ya jiirn´a´nya´ni sam´ya´ti nava´ni dehii.(1)
 
-"Cuando las ropas se vuelven viejas y andrajosas, estas se reemplazan por unas nuevas.Esta es la ley. A nadie le gusta vestir con ropa vieja, maltratada y sucia. Similarmente, cuando el cuerpo se convierte en viejo e inservible, este es cambiado por uno nuevo.”
+"Cuando las ropas se vuelven viejas y andrajosas, estas se reemplazan por unas nuevas. Esta es la ley. A nadie le gusta vestir con ropa vieja, maltratada y sucia. Similarmente, cuando el cuerpo se convierte en viejo e inservible, este es cambiado por uno nuevo.”
 
 El cuerpo envejece debido al trabajo o actividad. Uno tiene que marchar en cada fraccion de segundo en la vida personal. Marchando solo hacia adelante uno se puede establecer en dharma. Aquellos que no pueden moverse, ni caminar, son como cadaveres; su lugar no esta en la sociedad, sino en el crematorio. Ellos son pa´piis [pecadores], antisociales.
 
 Existe movimiento en las 3 esferas de la vida -fisica, mental y espiritual.
 
 El movimiento en el reino fisico significa la construccion de la sociedad sadvipra.
- [Sadvipra: un revolucionario espiritual.] La sociedad en la actualidad esta llena de lanzadores de  pa´pa [pecado]. Quiebren en pedazos a estos pecadores con unas patadas. [Este es tu destino.] Pa´pa [pecado] se opondra a ti, pero tu tendras que enfrentar el reto. Alguien que aniquila el pa´pa [pecado] fisico es un sadvipra. Este es tu dharma en lo mundano. Ustedes son seres humanos, debido a que ustedes pelean encontra de los inmoralistas.
+ [Sadvipra: un revolucionario espiritual.] La sociedad en la actualidad esta llena de lanzadores de  pa´pa [pecado]. Quiebren en pedazos a estos pecadores con unos coscorrores. [Este es tu destino.] Pa´pa [pecado] se opondra a ti, pero tu tendras que enfrentar el reto. Alguien que aniquila el pa´pa [pecado] fisico es un sadvipra. Este es tu dharma en lo mundano. Ustedes son seres humanos, debido a que ustedes pelean encontra de los inmoralistas.
 
-En el reino psiquico tienen que establecer honradez al remover los germenes de la mentalidad cruda. En cualquier lugar del mundo actual domina el intelecto crudo. Es tu deber reemplazarlo con el intelecto virtuoso.
+En el reino psiquico tienen que establecer honradez al remover los germenes de la mentalidad cruda. En cualquier lugar del mundo actual domina el intelecto crudo. Es tu deber reemplazarlo por un intelecto virtuoso.
 
 Una vez estaba viajando en carro en Bihar. El chofer tuvo que parar el carro en muchas ocaciones para quitar a los perros del camino. Cuando un sa´dhaka que iba sentado junto a mi pregunto: por que los perros no hacen caso al claxon del carro para moverse?, le respondi que esos perros no pueden oir, este es el reino de los perros, la ley de los perros.
 
