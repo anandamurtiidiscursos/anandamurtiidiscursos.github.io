@@ -107,7 +107,7 @@ body {
 	left: auto; 
 	width: auto; 
 	height: auto;
-	min-height: 600px;
+	min-height: 960px;
 	overflow: hidden;
 	&:after {
 		content: '';
@@ -126,7 +126,7 @@ body {
 		bottom: 0; 
 		margin: auto; 
 		min-width: 50%;
-		min-height: 600px; // match .entry-image min-height
+		min-height: 960px; // match .entry-image min-height
 	}
 }
 // Feature Image Caption
