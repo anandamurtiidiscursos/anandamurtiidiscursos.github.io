@@ -103,10 +103,10 @@ body {
 }
 .entry-image {
 	position: relative;
-	top: 0%; 
-	left: 0%; 
-	width: 200%; 
-	height: 200%;
+	top: auto; 
+	left: auto; 
+	width: auto; 
+	height: auto;
 	min-height: 400px;
 	overflow: hidden;
 	&:after {
