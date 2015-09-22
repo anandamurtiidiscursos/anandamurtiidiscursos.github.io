@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 BHU'TATATTVA, TANMA'TRATATTVA E INDRIYATATTVA
 
@@ -45,4 +46,3 @@ Un punto muy importante que es notado aquí es la inmanente capacidad de un obje
 Órganos sensoriales: Estos son cinco en numero – (1) caks'uh (ojo), (2) karn'a (oído), (3) na'sika' (nariz), (4) jihva' (lengua) y (5) tvak (piel). Sus funciones son – darshana (para ver), shravana (para escuchar), a'ghra'n'a (para oler), a'sva'dana (para saborear) y sparshana (para tocar), respectivamente. Acorde al el proceso de percepción ellos ayudan a la mente en asimilar las tanma'tras.
 
 Los órganos motores o karmendriyas también son cinco en numero. Ellos son (1) va'k (cuerda vocal), (2) pa'n'i (mano), (3) pa'da (pierna), (4) pa'yu (ano) y (5) upastha (órgano genital). Sus funciones son – kathana (para hablar), shilpana (para trabajar), caran'a (para moverse), varjana (para dejar salir el desperdicio), y janana (para dar nacimiento), respectivamente.
-
