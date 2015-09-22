@@ -3,6 +3,7 @@ published: true
 ---
 
 
+
 La actividad de la centrifugación del Núcleo Macrocósmico es conocida como saincara. De ahí este Núcleo o Purus'ottama es el atestiguador homólogo del Macrocosmo objetivo. Purus'a o Citishakti es consciencia pura; desde aquí su activación sin la asistencia de un segundo principio es imposible. La  Acción resulta solo cuando Prakrti, la tendencia inherente de la trascendental Purus'a, obtiene ámbito de expresión.
 
 Los dos factores, Purus'a y Prakrti, aunque duales en teoría, son singulares en espíritu. Su organismo colectivo es justo como el del fuego. Uno no puede pensar acerca del fuego sin su especial valor termal; en la misma manera uno no puede pensar en Purus'a sin Prakrti en el organismo colectivo de Brahma. Prakrti puede ser definido como un atributo de Purus'a. Donde no hay actividad expresada de Prakrti, es decir, donde la actividad se presenta en una etapa latente, Purus'a permanece sin objetivo o nirgun'a.
@@ -42,3 +43,5 @@ Estos jad'asphot'as pueden ser instantáneos o graduales. Las condiciones para e
 Debido a  jad'asphot'a, un gradual o instantáneo, los factores componentes de la estructura física consiguen disociarse en los cinco factores fundamentales. Este fenómeno de retraerse hacia atras en saincara es conocido como “saincara negativo ”. En el proceso de saincara negativo los factores componentes no pueden disociarse en factores mas sutiles que el etéreo., eso significaría el Aham'tattva retirando su eternamente activa proyección mental; y este retiramiento de el “Yo” Cósmico significaría la suspensión de la Mente Cósmica o cese de actividad Macrocósmica o el termino de la creación, como creación de si misma solo es una proyección mental de el Macrocosmo. Estallido no es un fenómeno de retraimiento, pero es un removedor de ondas mentales debido a la presión excesiva de Prakrti estático. Y el factor de factores resultando de la disociación encuentra su identidad en los cinco factores fundamentales – solido, liquido, luminoso, aéreo y etéreo.
 
 En esta vía el recorrido de evolución continua eternamente según el impulso divino de el Macrocosmo. Y no hay oportunidad de la llamada muerte termal del universo.
+
+- Anandamurtii -
