@@ -1,6 +1,8 @@
 ---
 published: true
+layout: post
 ---
+
 
 
 
@@ -66,4 +68,3 @@ Por tanto, nuestra es la Teoría de Utilización Progresiva (Prout).
 *Seres individuales, o jiiva'tmans, son derivados de el Ser Cósmico. Ver p.16 para una discusión de la reunión de los dos. -Ed.
 
 - Anandamurtii -
-
