@@ -3,6 +3,7 @@ published: true
 ---
 
 
+{% include navigation.html %}
 Trn´a´dapi suniicena taroriva sahis´nun´a
 Ama´ninam´ ma´nadeyam´ kiirtaniiyah sada´ harih.
 
