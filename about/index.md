@@ -6,5 +6,5 @@ modified: {}
 published: true
 ---
 
-facebook :
-diaspora : 
+
+anandamurtiidiscursos@gmail.com
