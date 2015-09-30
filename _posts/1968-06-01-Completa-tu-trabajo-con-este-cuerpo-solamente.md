@@ -7,6 +7,7 @@ layout: post
 
 
 
+
 Va´sa´m´si jiirn´ani yatha´ viha´ya nava´ni grhn´a´ti naro’para´n´i;
 Tatha´ shariira´ni viha´ya jiirn´a´nya´ni sam´ya´ti nava´ni dehii.(1)
 
@@ -33,5 +34,5 @@ Existen 3 esferas– fisica, mental, y espiritual. Estas son llamadas trilokas, 
 
 Trabaja con la capacidad infinita de Parama´tman y con velocidad infinita. La victoria sera ciertamente tuya.
 
-Anandamurtii
-Junio 1968, Philippines
+- Anandamurtii -
+
