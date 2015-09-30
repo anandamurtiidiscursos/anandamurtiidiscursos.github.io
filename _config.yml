@@ -66,12 +66,4 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 
 
-superSearch({
-    searchFile: '/feed.xml',
-    searchSelector: '#js-search' // CSS Selector for search container element.
-    inputSelector: '#js-search__input', // CSS selector for <input>
-    resultsSelector: '#js-search__results' // CSS selector for results container
-});
-
-
 
