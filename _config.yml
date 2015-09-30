@@ -32,7 +32,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Chicago
+timezone:    America/Mexico_City
 future:      true
 highlighter: pygments
 markdown:    kramdown
