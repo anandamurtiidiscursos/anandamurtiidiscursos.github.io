@@ -1,6 +1,8 @@
 ---
 published: true
+layout: post
 ---
+
 
 
 BHU'TATATTVA, TANMA'TRATATTVA E INDRIYATATTVA
