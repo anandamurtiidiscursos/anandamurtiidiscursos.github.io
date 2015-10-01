@@ -5,9 +5,6 @@ layout: post
 ---
 
 
-
-
-
 Una accion puede ser tratada como “finalizada” si esta satisface las siguientes condiciones: (1) si esta ha sido cumplida completamente, y (2) el resultado conforme esta en las manos.[Esto es “finalidad”, o “completud”.]
 
 Nosotros repetimos el siddha mantra (Bábá náma kevalam) en diferentes melodias.(1) Cual es la finalidad de esto? Tomemos el siguiente ejemplo. Yo cruzo el portal, y como resultado de esto entro en el salon. La pronunciacion, interna o externa, de la primer silaba de el mantra es como cruzar el portal y entrar a un nuevo mundo. La realizacion apropiada del trabajo de entrar en un nuevo mundo culmina en el resultado de sentir bendicion y perfeccion. Este sentimiento es una encarnacion de jubilo.
