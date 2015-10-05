@@ -1,8 +1,12 @@
 # Menu navigation links
 
  
-- title: Anandamurti Books
+- title: Anandamurti Books (zip)
+  url: https://hunben.blaucloud.de/index.php/s/IKpgHvD8aFXXlmF
+  - title: Anandamurti Books (html)
+  url: https://hunben.blaucloud.de/index.php/s/a2NkEnJ2wJMO2fl
+  - title: Anandamurti Discourses (zip)
   url: https://cmdr0.blaucloud.de/index.php/s/juHPQAnDa2yaWor
-  - title: Anandamurti Discourses
-  url: https://cmdr0.blaucloud.de/index.php/s/juHPQAnDa2yaWor
+   - title: Anandamurti Discourses (html)
+  url: https://hunben.blaucloud.de/index.php/s/TEz13X0o8MYzy33
 
