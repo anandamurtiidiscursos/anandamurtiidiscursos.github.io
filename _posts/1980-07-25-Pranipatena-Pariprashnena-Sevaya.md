@@ -5,6 +5,7 @@ Layout: post
 
 
 
+
 Sevá
 
 La verdadera existencia de los seres humanos es una triple existencia. Tu cuerpo, consitituido de los 5 factores fundamentales, es una existencia. Tu mente, llamado tu ser ectoplasmatico , es otra existencia. Y tu alma – la cual es la tercer existencia. Cualquier cosa que tu puedas expresar sera confinada dentro de estos tres niveles de existencia.
