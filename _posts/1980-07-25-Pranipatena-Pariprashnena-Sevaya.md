@@ -1,6 +1,8 @@
 ---
 published: true
+Layout: post
 ---
+
 
 
 Sevá
