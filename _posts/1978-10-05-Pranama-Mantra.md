@@ -4,8 +4,6 @@ layout: post
 ---
 
 
-Prańáma Mantra
-
 Ayer di la interpretacion de Guru Pújá. Anoche un niño me pregunto si podia darle la interpretacion de Prańáma Mantra. Ahi y aqui su pregunta es respondida. Para la informacion de todos, les repetire la interpretacion.
 
 El Mantra Prańáma es “Tava dravyaḿ Jagatguro tubhyameva samarpaye.”
