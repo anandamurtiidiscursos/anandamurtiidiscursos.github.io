@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 ---
+
 
 Con respecto al paralelismo y ondas mentales, Yo dije que existen 2 tipos: auto-sugestion y sugestion externa.
 
