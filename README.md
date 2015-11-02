@@ -23,3 +23,6 @@ They say three times the charm, so here is another free responsive Jekyll theme 
 HPSTR takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
 
 To learn how to install and use this theme check out the [Setup Guide](https://mmistakes.github.io/hpstr-jekyll-theme/theme-setup/) for more information.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/anandamurtiidiscursos/anandamurtiidiscursos.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
