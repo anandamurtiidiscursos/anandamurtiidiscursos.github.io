@@ -5,9 +5,10 @@ layout: post
 
 
 
-Con respecto al paralelismo y ondas mentales, Yo dije que existen 2 tipos: auto-sugestion y sugestion externa.
 
-Auto-sugestion se realiza a traves de que? Tu propia encantacion. La encantacion, que es esto? Es esto una expresion acustica interna o externa?
+Con respecto al paralelismo y ondas mentales, mecione que existen 2 tipos: auto-sugestion y sugestion externa.
+
+Auto-sugestion se realiza a traves de que? De tu propia encantacion. La encantacion, que es esto? Es esto una expresion acustica interna o externa?
 
 Cuando tu dices algo, por ejemplo, tu estas diciendo, “Rama”, es una expresion vocal, expresion externa. Mientras que estes realizando tu encantacion , que es lo que haces? Solo la expresion vocal interna. Cuando tu piensas, que es lo que haces? Tu dices algo internamente.
 
