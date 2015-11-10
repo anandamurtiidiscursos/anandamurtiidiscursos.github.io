@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 ---
+
 
 Introduccion
 
@@ -265,4 +266,3 @@ Estos sintomas ocultos desapareceran tan pronto la mente se separe de la objetiv
 Es deseable que practiques varias lecciones de sádhaná en solo, en un lugar solitario, pero Iishvara prańidhána puede ser practicado tanto individualmente como tambien colectivamente. En Iishvara prańidhána colectivo los esfuerzos mentales trabajan conjuntamente, y asi dan aparicion a las expresiones de las señales altas en un periodo muy corto. Por lo tanto, como todos los demas aspectos de la sádhaná, Iishvara prańidhána debera ser positivamente practicada solo, en un lugar solitario; pero en adicion, no pierdan la oportunidad de realizar Iishvara prańidhána colectivamente cuando sea que fuere posible reunirse todos. La fuerza mental indomable es elevada como resultado de la colectiva practica de Iishvara prańidhána los ayudara a resolver cualquier problema, grande o pequeño, en este planeta. Es por esta razon que tu siempre deberas ser entusiasta siempre de atender regularmente cada semana dharmacakra. 
 
 - Anandamurtii -
-
