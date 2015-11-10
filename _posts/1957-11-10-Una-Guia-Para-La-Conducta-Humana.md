@@ -3,7 +3,7 @@ published: true
 layout: post
 ---
 
-Introduccion
+INTRODUCCION
 
 La moralidad es la base para la Sádhaná (practica espiritual). Debe, sin embargo, ser recordado que la moralidad o buena conducta no es el punto culminante de la marcha espiritual. Como moralista uno debe establecer un ideal para otros moralistas. Sádhaka significa aspirante espiritual. El Sádhaná, en su inicio, requiere equilibrio mental. Este tipo de armonia tambien puede ser llamada moralidad.
 
