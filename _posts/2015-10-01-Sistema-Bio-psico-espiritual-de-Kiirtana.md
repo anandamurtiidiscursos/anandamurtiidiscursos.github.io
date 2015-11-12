@@ -2,7 +2,9 @@
 published: true
 Layout: post
 layout: post
+description: anandamurtii
 ---
+
 
 
 Una accion puede ser tratada como “finalizada” si esta satisface las siguientes condiciones: (1) si esta ha sido cumplida completamente, y (2) el resultado conforme esta en las manos.[Esto es “finalidad”, o “completud”.]
