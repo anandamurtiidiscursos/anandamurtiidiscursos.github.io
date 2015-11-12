@@ -28,9 +28,8 @@ published: true
 
 
 
-<head>
-  <meta name="google-site-verification" content="CcJIv3I7WL-fwLyI7xyITeVxwS9ulezz-k62pvoDlpI" />
-  </head>
+
+
 
 
 
@@ -38,8 +37,7 @@ published: true
 {% for post in paginator.posts %}
 <article class="hentry">
     <header>
-      <meta name="google-site-verification" content="CcJIv3I7WL-fwLyI7xyITeVxwS9ulezz-k62pvoDlpI" />
-    {% if post.image.feature %}
+      {% if post.image.feature %}
       <div class="entry-image-index">
         <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
       </div><!-- /.entry-image -->
