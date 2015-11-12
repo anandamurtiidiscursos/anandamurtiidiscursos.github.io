@@ -70,5 +70,6 @@ Así vemos que estas tres cosas son muy preciadas en la vida humana. Y que es lo
 (1) Karma significa “acción”, y yoga significa “unificación” del espíritu individual con el Espíritu Supremo.
 
 (2) Bhagavad Giitá.
+
 - Anandamurtii -
 
