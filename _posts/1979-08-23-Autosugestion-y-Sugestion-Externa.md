@@ -5,6 +5,7 @@ layout: post
 
 
 
+
 Con respecto al paralelismo y ondas mentales, Yo dije que existen 2 tipos: auto-sugestión y sugestión externa.
 
 Auto-sugestión se realiza a través de que? Tu propia encantación. La encantación, que es esto? Es esto una expresión acústica interna o externa?
@@ -54,11 +55,4 @@ Mantente siempre en Puńya y rechaza siempre Pátaka. Siempre trata de estar c
 
 - Anandamurtii -
 
-<div id="amazingaudioplayer-1" style="display:block;position:relative;width:300px;height:auto;margin:0px auto 0px;">
-        <ul class="amazingaudioplayer-audios" style="display:none;">
-            <li data-artist="" data-title="Autosugestion y sugestion externa" data-album="" data-info="" data-image="audios/avatar.jpg" data-duration="0">
-                <div class="amazingaudioplayer-source" data-src="http://anandamurtiidiscursos.hol.es/Audios/Autosugestion%20y%20Sugestion%20Externa.mp3" data-type="audio/mpeg" />
-            </li>
-        </ul>
-        <div class="amazingaudioplayer-engine"><a href="http://amazingaudioplayer.com" title="html5 audio player">jquery mp3 player</a></div>
-    </div>
+
