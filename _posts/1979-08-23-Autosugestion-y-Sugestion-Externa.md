@@ -7,6 +7,7 @@ layout: post
 
 
 
+
 Con respecto al paralelismo y ondas mentales, Yo dije que existen 2 tipos: auto-sugestión y sugestión externa.
 
 Auto-sugestión se realiza a través de que? Tu propia encantación. La encantación, que es esto? Es esto una expresión acústica interna o externa?
@@ -54,8 +55,6 @@ Y siempre rechaza la Sauṋga de Pátakiis quienes estén enganchados a Pátak
 
 Mantente siempre en Puńya y rechaza siempre Pátaka. Siempre trata de estar con esas personas que estén haciendo Puńya. Nunca con aquellos que realicen Pátaka. Esto se debe a que la gente que realizan Puńya te otorgaran la sugestión externa, buena sugestión externa, positiva sugestión externa. Los Pátakiis te darán sugestión eterna negativa, y sus sugestiones son perjudiciales hacia el progreso de la sociedad humana.
 
-<iframe width="560" height="315" src="http://anandamurtiidiscursos.hol.es/Audios/Autosugestion%20y%20Sugestion%20Externa.mp3" frameborder="0"> </iframe>
+<iframe width="200" height="200" src="http://anandamurtiidiscursos.hol.es/Audios/Autosugestion%20y%20Sugestion%20Externa.mp3" frameborder="0"> </iframe>
 
 - Anandamurtii -
-
- 
