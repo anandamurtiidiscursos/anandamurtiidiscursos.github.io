@@ -54,5 +54,7 @@ Y siempre rechaza la Sauṋga de Pátakiis quienes estén enganchados a Pátak
 Mantente siempre en Puńya y rechaza siempre Pátaka. Siempre trata de estar con esas personas que estén haciendo Puńya. Nunca con aquellos que realicen Pátaka. Esto se debe a que la gente que realizan Puńya te otorgaran la sugestión externa, buena sugestión externa, positiva sugestión externa. Los Pátakiis te darán sugestión eterna negativa, y sus sugestiones son perjudiciales hacia el progreso de la sociedad humana.
 
 - Anandamurtii -
+ <iframe width="560" height="315" src="http://anandamurtiidiscursos.hol.es/Audios/Autosugestion%20y%20Sugestion%20Externa.mp3" 
 
+frameborder="0"> </iframe>
 
