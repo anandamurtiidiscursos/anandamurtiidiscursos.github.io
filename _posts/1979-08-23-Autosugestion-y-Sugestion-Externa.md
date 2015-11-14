@@ -4,6 +4,7 @@ layout: post
 ---
 
 
+
 Con respecto al paralelismo y ondas mentales, Yo dije que existen 2 tipos: auto-sugestión y sugestión externa.
 
 Auto-sugestión se realiza a través de que? Tu propia encantación. La encantación, que es esto? Es esto una expresión acústica interna o externa?
@@ -50,4 +51,14 @@ Cuando la auto-sugestión se vuelve tu naturaleza, que sucederá? Mientras duerm
 Y siempre rechaza la Sauṋga de Pátakiis quienes estén enganchados a Pátaka. Ese tipo de personas degeneran a la sociedad. Entre Pátaka, hay 2 clases, 2 ramas. Una es Pápa, y otra es Pratyaváya. Pápa significa el hacer los “contras” de la vida. No robes. Si tu robas, esto sera Pápa debido a que tu estas haciendo los “contras” de la vida. Pratyaváya significa no hacer los “quehaceres” de la vida. Tu debes ayudar a alguien afligido. Tu debes de ayudar a la humanidad. Estos son los quehaceres de la vida. Si tu no los realizas, tu estas haciendo Pratyaváya. Pápa mas Pratyaváya es Pátaka. 
 
 Mantente siempre en Puńya y rechaza siempre Pátaka. Siempre trata de estar con esas personas que estén haciendo Puńya. Nunca con aquellos que realicen Pátaka. Esto se debe a que la gente que realizan Puńya te otorgaran la sugestión externa, buena sugestión externa, positiva sugestión externa. Los Pátakiis te darán sugestión eterna negativa, y sus sugestiones son perjudiciales hacia el progreso de la sociedad humana.
+
 - Anandamurtii -
+
+<div id="amazingaudioplayer-1" style="display:block;position:relative;width:300px;height:auto;margin:0px auto 0px;">
+        <ul class="amazingaudioplayer-audios" style="display:none;">
+            <li data-artist="" data-title="Autosugestion y sugestion externa" data-album="" data-info="" data-image="audios/avatar.jpg" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="http://anandamurtiidiscursos.hol.es/Audios/Autosugestion%20y%20Sugestion%20Externa.mp3" data-type="audio/mpeg" />
+            </li>
+        </ul>
+        <div class="amazingaudioplayer-engine"><a href="http://amazingaudioplayer.com" title="html5 audio player">jquery mp3 player</a></div>
+    </div>
