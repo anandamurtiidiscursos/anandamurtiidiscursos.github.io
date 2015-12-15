@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 ---
+
 
 
 Uno de los hábitos humanos es que no conocemos algo, sea lo que sea, para ocultar nuestras limitaciones o esconder nuestras imperfecciones, decimos que no existe o, en un estilo más inteligente, decimos que es abstracción. En este universo nuestro, cualquier cosa que esté dentro del campo de nuestros sentidos o dentro de la periferia de nuestra percepción, decimos “esto es” y de cualquier cosa que se encuentre más allá de los sentidos o de la jurisdicción de la percepción, no podemos decir nada. Por lo tanto, nuestro mundo funciona dentro de los límites de nuestros sentidos y percepciones. Sabemos que en el reino de la extroversión, lo sutil se transforma en burdo; y en la fase de retorno, de introversión, lo burdo se transforma en sutil. En esta progresión, o más bien en este acercamiento semicircular, puede haber dentro del campo de la materia, objetos más sutiles, muchos objetos más sutiles que los electrones o positrones, pero no encontramos otra alternativa que llamarlos neutrones, electrones, protones o positrones. En forma similar en la esfera psíquica, puede haber entidades más sutiles que el ectoplasma o que su cubierta externa psíquica, el endoplasma.
@@ -14,4 +15,4 @@ Ahora debería hacerse una investigación intensiva acerca de este Microvitum o 
 En los tiempos antiguos, con respecto a la estructura singular o colectiva de estos Microvita, los antiguos r´sis decían que eran de siete tipos: Yaks´a, Gandharva, Vidya´dhara, Kinnara, Siddha, Prakrtiliina y Vidhaliina, de acuerdo al grado de su sutileza o a la naturaleza de su crudeza.
 Pienso que por la acción de nuestra Sa´dhana, o más bien por nuestra Sa´dhana físico-psíco-espiritual, nuestra mente se desarrollará en todos los niveles. Y el poder de concepción, el poder de concebir, también se desarrollará, y con ese poder desarrollado para concebir conoceremos todos los secretos de estos Microvita.
 
-- Anandamurtii - 
+- Anandamurtii -
