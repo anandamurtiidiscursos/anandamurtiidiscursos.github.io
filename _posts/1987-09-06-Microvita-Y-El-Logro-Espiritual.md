@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 ---
+
 
 Khamu’rtti. Kha + mu’rtti = khamu’rtti. Khamu’rtti significa literalmente “una aparición celestial, una aparición en el firmamento”. Desde tiempos antiguos los rs’is, sabios, yogis y aspirantes espirituales han visto algunos tipos de cuerpos luminosos o almas incorpóreas por obra de la gracia divina de Parama Purus’a. Estos cuerpos luminosos dan asistencia en todas las formas posibles a los aspirantes espirituales. Sólo los aspirantes espirituales tienen la posibilidad de ver estos cuerpos luminosos debido a la gracia de Parama Purus’a. Aunque son perceptibles a simple vista, no pueden ser fotografiados. Los aspirantes espirituales pueden dirigirles la palabra y obtener respuesta a sus preguntas. Mientras que las palabras de los aspirantes espirituales sí pueden ser registradas en una grabadora, no sucede lo mismo con las respuestas que dan los cuerpos luminosos. Si un aspirante espiritual les pregunta acerca de cualquier objeto mundano, podrán o no otorgar una respuesta. Si dan una respuesta, solamente lo harán una vez, y después de ello no volverán a dejarse ver por aquella persona.
 
