@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 ---
+
 
 En mi discurso anterior mencione que los seres humanos llegan a la cumbre de la devoción por un acercamiento subjetivo y un ajuste objetivo. Y también explique cómo la devoción se desarrolla a través de varias expresiones psíquicas. Ahora debemos entenderlos claramente, el aspecto introspectivo (enfoque subjetivo) y el aspecto extrovertido (ajuste objetivo). Estos deberán ser claros como el cristal para cada uno y para todos. El movimiento psíquico interno de los seres humanos, su conocimiento existencial, es completamente rítmico. Una porción de cuanto sucede en el mundo externo, en la existencia externa, se ajusta con el ritmo psíquico interno.
 
